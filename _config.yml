@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jimmy Doi"
   avatar           : "profile.png"
-  bio              : "Professor, Statistics Dept., Cal Poly SLO"
-  location         : "San Luis Obispo"
+  bio              : "Professor, Cal Poly SLO Statistics Dept."
+  location         : "@calpoly"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
