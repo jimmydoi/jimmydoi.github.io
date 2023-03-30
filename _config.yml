@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Jimmy Doi"
-  avatar           : "profile.png"
+  avatar           : "Doi_Jimmy.jpg"
   bio              : "Professor, Cal Poly SLO Statistics Dept."
   location         : "San Luis Obispo, CA"
-  employer         : 
-  pubmed           : 
-  googlescholar    : 
+  employer         :
+  pubmed           :
+  googlescholar    :
   email            : "jdoi@calpoly.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://statistics.calpoly.edu/"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
