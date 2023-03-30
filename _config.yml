@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Professor, Cal Poly SLO Statistics Dept."
   location         : "San Luis Obispo, CA"
-  employer         :
+  employer         : @calpoly
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jdoi@calpoly.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
