@@ -1,14 +1,24 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Southern California native and graduated from [CSU Northridge](https://csun.edu) with a BA degree in math and minors in chemistry, biology, and Japanese. After finishing at CSUN, I drove from LA to Raleigh to attend the graduate program at [NC State University](https://www.ncsu.edu) in the [Dept. of Statistics](https://statistics.sciences.ncsu.edu/). While at NCSU, I completed my Master's and Ph.D. degrees in statistics. Also while at NCSU, I became a very ardent and loyal [Wolfpack fan](https://gopack.com)! After completing the Ph.D. in July 2003, I returned to California and began work as a professor in the Dept. of Statistics at Cal Poly San Luis Obispo.
+
+My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I have the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentralcoast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com).
+
+My research interests fall broadly under the category of biostatistics, but specifically under the categorical data analysis of clinical trials. Curious about what that stuff is? Then please drop by my office to find out!
+
+For fun, I love playing basketball and I also enjoy mountain biking. Since the Central Coast is filled with incredible trails, it's been difficult to come up with good excuses to keep my bike at home. I also enjoy practicing the classical guitar and cooking (especially Japanese food). With these last two items, I've found my main road to progress has been through lots of practice and learning from lots of mistakes!
+
+I think you too will find that your progress in a subject like statistics often comes after lots of practice and after making plenty of mistakes. Especially if you don't find statistics to be your favorite subject, don't make the mistake of suffering through the subject alone. Take advantage of the resources around you by talking with your classmates and/or joining study groups.
+
+And please don't ever hesitate to contact me if you have any questions. It is perfectly okay to ask "I don't understand this topic, can you explain it once again?" or "I can't get started on this homework problem, could you give me a hint?" Keep in mind that I will not do your homework problems for you, but I would be happy to lead you in the right direction.
 
 A data-driven personal website
 ======
@@ -19,7 +29,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
@@ -27,7 +37,7 @@ Getting started
 
 Site-wide configuration
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
 
 Create content & metadata
 ------
@@ -40,7 +50,7 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 
 How to edit your site's GitHub repository
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
