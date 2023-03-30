@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Professor, Cal Poly SLO Statistics Dept."
   location         : "San Luis Obispo, CA"
-  employer         : @calpoly
+  employer         : "https://statistics.calpoly.edu/"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "jdoi@calpoly.edu"
