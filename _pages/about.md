@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Southern California native and graduated from [CSU Northridge](https://csun.edu) with a BA degree in math and minors in chemistry, biology, and Japanese. After finishing at CSUN, I drove from LA to Raleigh to attend the graduate program at [NC State University](https://www.ncsu.edu) in the [Dept. of Statistics](https://statistics.sciences.ncsu.edu/). While at NCSU, I completed my Master's and Ph.D. degrees in statistics. Also while at NCSU, I became a very ardent and loyal [Wolfpack fan](https://gopack.com)! After completing the Ph.D. in July 2003, I returned to California and began work as a professor in the Dept. of Statistics at Cal Poly San Luis Obispo.
 
-My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I have the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentralcoast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com).
+My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I had the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentralcoast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com).
 
 My research interests fall broadly under the category of biostatistics, but specifically under the categorical data analysis of clinical trials. Curious about what that stuff is? Then please drop by my office to find out!
 
