@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About" 
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ I am a Southern California native and graduated from [CSU Northridge](https://cs
 
 My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I had the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentralcoast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com/view/professors/entry/jimmy-doi).
 
-My research interests fall broadly under the category of biostatistics, but specifically under the categorical data analysis of clinical trials.
+My research interests include categorical data analysis (more specifically, optimal confidence interval methods for discrete distributions) and statistics education. Over the last several years I have been working with educators at universities and high schools in Japan on various topics including active learning and simulation-based inference.
 
 <!---
 Curious about what that stuff is? Then please drop by my office to find out!
