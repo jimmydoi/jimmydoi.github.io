@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
-date: 2016
+date: 2016-01-01
 venue: 'Technology Innovations in Statistics Education'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Doi, J., Potter, G., Wong, J., Alcaraz, I., and Chi, P. (2016) &quot;Web Application Teaching
