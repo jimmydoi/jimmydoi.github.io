@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Web Application Teaching Tools for Statistics Using R and Shiny"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt:
