@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "Improved interval estimation of negative binomial parameters: a coverage probability approach"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: ''
+date: JULY 2023
+venue: 'Journal of Statistical Computation and Simulation'
+paperurl: 'https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046'
+citation: 'Jimmy A. Doi, Bret Holladay & Mark F. Schilling (2023) &quot;Improved interval estimation of negative binomial parameters: a coverage probability approach,&quot; <i>Journal of Statistical Computation and Simulation</i>, DOI: 10.1080/00949655.2023.2235046'
 ---
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
