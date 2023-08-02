@@ -8,3 +8,4 @@ venue: 'Journal of Japan Society of Mathematical Education'
 paperurl: ''
 citation: 'Doi, J. (2019) &quot;Lecture Examples using Simulation-Based Inference and Active Learning.&quot; <i>Journal of Japan Society of Mathematical Education</i>, 101(3), 28–39. (in Japanese)'
 ---
+[Download paper here](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja)
