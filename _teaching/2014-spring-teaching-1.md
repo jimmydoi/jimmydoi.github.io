@@ -1,8 +1,8 @@
 ---
 title: "Under construction"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+collection: teaching
+type: ""
+permalink: /teaching/2014-spring-teaching-1
 venue: ""
 date: 2023-01-01
 location: ""
