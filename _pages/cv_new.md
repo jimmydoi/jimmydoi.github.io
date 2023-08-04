@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Under Construction
+[Download CV Here](http://jimmydoi.github.io/files/jd_vitae.pdf)
