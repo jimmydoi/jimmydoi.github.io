@@ -1,0 +1,7 @@
+Adjusted LCO Confidence Intervals for
+n = 2 and Mean Coverage = 0.9500
+Minimum Coverage = 0.8505 
+
+0 0 0.61337
+1 0.07777 0.92223
+2 0.38663 1
