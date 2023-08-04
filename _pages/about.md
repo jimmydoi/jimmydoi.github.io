@@ -14,7 +14,7 @@ My research interests include categorical data analysis (more specifically, opti
 
 <!---
 
-My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I had the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentralcoast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com/view/professors/entry/jimmy-doi).
+My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I had the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentraALCOast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com/view/professors/entry/jimmy-doi).
 
 
 
