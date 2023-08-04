@@ -10,7 +10,7 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: http://jimmydoi.github.io/files/jd_vitae.pdf
+    url: /cv/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
