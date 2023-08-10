@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+---
 
 ## Education
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
