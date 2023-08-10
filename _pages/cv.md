@@ -11,14 +11,14 @@ redirect_from:
 
 <br>
 
-#Education
+# Education
 ======
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
   * Minor: Biology, Chemistry, Japanese
 * M.S. in Statistics, North Carolina State University, 1998
 * Ph.D. in Statistics, North Carolina State University, 2003
 
-##Work experience
+## Work experience
 ======
 * April 2018 -- Present: Lecturer
   * Rikkyo University
@@ -36,7 +36,7 @@ redirect_from:
   * Calif. Polytechnic State University, San Luis Obispo
   * Statistics Department
 
-###Skills
+### Skills
 ======
 * Skill 1
 * Skill 2
