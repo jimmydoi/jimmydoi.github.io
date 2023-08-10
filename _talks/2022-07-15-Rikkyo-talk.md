@@ -4,6 +4,6 @@ collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2022-07-15-Rikkyo-talk
 venue: "Rikkyo University"
-date: 2023-07-15
+date: 2022-07-15
 location: "Tokyo, Japan"
 ---

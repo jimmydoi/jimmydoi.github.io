@@ -4,6 +4,6 @@ collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2022-06-30-Hirosh-talk
 venue: "Hiroshima University Super Science High School"
-date: 2023-06-30
+date: 2022-06-30
 location: "Hiroshima, Japan"
 ---
