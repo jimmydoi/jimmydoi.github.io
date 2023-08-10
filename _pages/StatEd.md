@@ -17,20 +17,26 @@ redirect_from:
     <tr>
       <td>
         <ul>
-        * College
-          * 2005 Publication
-            * [English Version](https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0)
-            * [Japanese Version](https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=0)
-          * 2016 Publication
-            * [English Version](https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0)
-            * [Japanese Version](https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0)
+        <li> College
+          <ul>
+          <li> 2005 Publication
+              <ul>
+              <li>  <a href="https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=0">Japanese Version</a></li>
+              </ul></li>
         </ul>
       </td>
       <td align="center">See the list</td>
-      <td align="right">from the first column</td>
     </tr>
   </tbody>
 </table>
+
+<!--
+* 2016 Publication
+  * [English Version](https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0)
+  * [Japanese Version](https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0)
+-->
 
 * PreK to 12th Grade
   * 2007 Publication
