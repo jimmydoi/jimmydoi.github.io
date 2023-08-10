@@ -18,20 +18,16 @@ redirect_from:
 * Ph.D. in Statistics, North Carolina State University, 2003
 
 ## Work experience
-* 2018 -- Present: Lecturer
-  * Rikkyo University
+* 2018 -- Present: Lecturer, Rikkyo University
   * Center for Statistics and Information
 
-* 2014 -- Present: Professor
-  * Calif. Polytechnic State University, San Luis Obispo
+* 2014 -- Present: Professor, Calif. Polytechnic State University, San Luis Obispo
   * Statistics Department
 
-* 2009 -- 2014: Associate Professor
-  * Calif. Polytechnic State University, San Luis Obispo
+* 2009 -- 2014: Associate Professor, Calif. Polytechnic State University, San Luis Obispo
   * Statistics Department
 
-* 2003 -- 2009: Assistant Professor
-  * Calif. Polytechnic State University, San Luis Obispo
+* 2003 -- 2009: Assistant Professor, Calif. Polytechnic State University, San Luis Obispo
   * Statistics Department
 
 ## Selected Publications
@@ -39,7 +35,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks
+## Selected Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -62,5 +58,5 @@ redirect_from:
   * FB 146: Introduction to Statistics 1  
   * FB 147: Introduction to Statistics 2
 
-## Service
+## Selected Service
 * Currently signed in to 43 different slack teams
