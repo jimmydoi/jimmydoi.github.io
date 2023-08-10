@@ -12,7 +12,7 @@ redirect_from:
 <br>
 
 Education
-<hrule>
+======
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
   * Minor: Biology, Chemistry, Japanese
 * M.S. in Statistics, North Carolina State University, 1998
