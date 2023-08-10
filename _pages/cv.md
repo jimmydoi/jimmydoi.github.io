@@ -35,19 +35,16 @@ redirect_from:
   * Statistics Department
 
 ## Selected Publications
-======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Talks
-======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 ## Teaching
-======
 * Cal Poly SLO
   * STAT 130: Introduction to Statistical Reasoning
   * STAT 150: Introduction to Statistical Investigations
@@ -66,5 +63,4 @@ redirect_from:
   * FB 147: Introduction to Statistics 2
 
 ## Service
-======
 * Currently signed in to 43 different slack teams
