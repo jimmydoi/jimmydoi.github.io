@@ -14,6 +14,7 @@ redirect_from:
 Education
 ======
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
+  * Minor: Biology, Chemistry, Japanese
 * M.S. in Statistics, North Carolina State University, 1998
 * Ph.D. in Statistics, North Carolina State University, 2003
 
