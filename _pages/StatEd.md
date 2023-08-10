@@ -12,6 +12,21 @@ redirect_from:
 
 ## GAISE (Guidelines for Assessment and Instruction in Statistics Education)
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>item1</li>
+          <li>item2</li>
+        </ul>
+      </td>
+      <td align="center">See the list</td>
+      <td align="right">from the first column</td>
+    </tr>
+  </tbody>
+</table>
+
 * College
   * 2005 Publication
     * [English Version](https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0)
