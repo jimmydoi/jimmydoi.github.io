@@ -17,7 +17,7 @@ redirect_from:
     <tr>
       <td>
         <ul>
-        <li> College
+        <li> <strong>College Report</strong>
           <ul>
           <li> 2005 Publication
               <ul>
@@ -41,7 +41,7 @@ redirect_from:
       </td>
       <td>
         <ul>
-        <li> PreK to 12th Grade
+        <li> <strong>PreK to 12th Grade Report</strong>
           <ul>
           <li> 2007 Publication
               <ul>
@@ -72,14 +72,6 @@ redirect_from:
   * [English Version](https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0)
   * [Japanese Version](https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0)
 -->
-
-* PreK to 12th Grade
-  * 2007 Publication
-    * [English Version](https://www.dropbox.com/scl/fi/qk6q6qt4nvclnagzf5ptt/PreK-12-GAISE-2007-ENGL.pdf?rlkey=boxpajsn1wobsz49gwr9yrbo0&dl=0)
-    * [Japanese Version](https://www.dropbox.com/scl/fi/vycamwhx2ey0adn3xgx75/PreK-12-GAISE-2007-JAPN.pdf?rlkey=93fkgzprmz4es3raeuygqjawk&dl=0)
-  * 2020 Publication
-    * [English Version](https://www.dropbox.com/scl/fi/mtaybqr6qtpv413nfjoln/PreK-12-GAISE-2020-ENGL.pdf?rlkey=2po0c1kx3n6ygzw7jli5uhmzh&dl=0)
-    * [Japanese Version](https://www.dropbox.com/scl/fi/qfp8hbavw9z0jg99g2lkr/PreK-12-GAISE-2020-JAPN.pdf?rlkey=g7uy44m6ea6td5k6fzddvfwge&dl=0)
 
 
 
