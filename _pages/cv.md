@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Education
 ======
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
@@ -15,15 +17,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2018 -- Present: Lecturer
+  * Rikkyo University
+  * Center for Statistics and Information
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2014 -- Present: Professor
+  * Calif. Polytechnic State University, San Luis Obispo
+  * Statistics Department
+
+* Fall 2014 -- Present: Professor
+  * Calif. Polytechnic State University, San Luis Obispo
+  * Statistics Department
+
+* Fall 2014 -- Present: Professor
+  * Calif. Polytechnic State University, San Luis Obispo
+  * Statistics Department
 
 Skills
 ======
@@ -55,9 +63,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-<!--
-[Download CV Here](/files/jd_vitae.pdf)
-
-<iframe src="/files/jd_vitae.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
--->
