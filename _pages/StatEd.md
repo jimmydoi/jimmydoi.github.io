@@ -10,6 +10,21 @@ redirect_from:
   - /StatEd.html
 -->
 
+## GAISE (Guidelines for Assessment and Instruction in Statistics Education)
+
+* College
+  * 2005 Publication
+    * [English Version](https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=1)
+    * [Japanese Version](https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=1)
+  * 2016 Publication
+    * [English Version](https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=1)
+    * [Japanese Version](https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=1)
+
+
+
+
+
+<!--
 ## Statistics Education
 
 * Basic config options: _config.yml
@@ -203,3 +218,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+-->
