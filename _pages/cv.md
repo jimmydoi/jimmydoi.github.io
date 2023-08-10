@@ -57,6 +57,3 @@ redirect_from:
 * Rikkyo University
   * FB 146: Introduction to Statistics 1  
   * FB 147: Introduction to Statistics 2
-
-## Selected Service
-* Currently signed in to 43 different slack teams
