@@ -2,6 +2,9 @@
 permalink: /StatEd/
 title: "Statistics Education"
 author_profile: true
+redirect_from:
+  - /StatEd/
+  - /StatEd.html
 ---
 
 ## Locations of key files/directories
