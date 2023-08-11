@@ -23,7 +23,7 @@ redirect_from:
               <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0">
               English Version</a>{:target="_blank" rel="noopener"}</li>
-              <li> <a href="https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0">
+              <li> <a href="https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0" target="_blank">
               Japanese Version</a></li>
               </ul>
           </li>
