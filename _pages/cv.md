@@ -60,8 +60,8 @@ redirect_from:
 
 ## Web Applications
 * Shiny Apps
-  * [Benford's Law: Data Examples](http://shiny.calpoly.sh/BenfordData)  [<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/94fe941ab0d8a4f36d8b)
-  * [Benford's Law: Sequences](http://shiny.calpoly.sh/BenfordSeq)&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/f4475cbfe4cc77cef168)
+  * [Benford's Law: Data Examples](http://shiny.calpoly.sh/BenfordData)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/94fe941ab0d8a4f36d8b)
+  * [Benford's Law: Sequences](http://shiny.calpoly.sh/BenfordSeq)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/f4475cbfe4cc77cef168)
   * [Chaos Game: Two Dimensions](http://shiny.calpoly.sh/ChaosGame2D)  [<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/d40a02fa87508ac5ac4b)
   * [Chaos Game: Three Dimensions](http://shiny.calpoly.sh/ChaosGame3D)  [<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/1d63ae1c5c5e3a4a596)
   * [LCO Confidence Interval Generator](http://shiny.calpoly.sh/LCO_CI_Generator)  [<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/jimmydoi/dc513e9b8c47d0f4daf0)
