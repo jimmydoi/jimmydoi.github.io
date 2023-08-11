@@ -65,5 +65,5 @@ redirect_from:
   * [Chaos Game: Two Dimensions](http://shiny.calpoly.sh/ChaosGame2D)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/d40a02fa87508ac5ac4b)
   * [Chaos Game: Three Dimensions](http://shiny.calpoly.sh/ChaosGame3D)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/1d63ae1c5c5e3a4a5969)
   * [LCO Confidence Interval Generator](http://shiny.calpoly.sh/LCO_CI_Generator)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/jimmydoi/dc513e9b8c47d0f4daf0)
-  * [Longest Run of Heads or Tails](http://shiny.calpoly.sh/Longest_Run)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/eee9a9e00dd4ddd68614)
+  * [Longest Run of Heads or Tails](http://shiny.calpoly.sh/Longest_Run)&nbsp;&nbsp;[<small>(Source Files at GitHub Gist)</small>](https://gist.github.com/calpolystat/eee9a9e00dd4ddd68614){:target="_blank" rel="noopener"}
 * [Cal Poly Statistics Dept. Shiny Collection](https://statistics.calpoly.edu/shiny)
