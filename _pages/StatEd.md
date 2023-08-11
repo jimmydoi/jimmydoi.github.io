@@ -10,6 +10,8 @@ redirect_from:
   - /StatEd.html
 -->
 
+:smile:
+
 > <small>Some files on this site were translated into Japanese using Google.
 As such, the translations may contain some errors.</small>
 
