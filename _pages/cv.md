@@ -12,10 +12,10 @@ redirect_from:
 ---
 
 ## Education
+* Ph.D. in Statistics, North Carolina State University, 2003
+* M.S. in Statistics, North Carolina State University, 1998
 * B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
   * Minor: Biology, Chemistry, Japanese
-* M.S. in Statistics, North Carolina State University, 1998
-* Ph.D. in Statistics, North Carolina State University, 2003
 
 ## Work experience
 * 2018 -- Present: Lecturer, Rikkyo University
@@ -41,7 +41,7 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Teaching
-* Cal Poly SLO
+* <strong>Cal Poly SLO</strong>
   * STAT 130: Introduction to Statistical Reasoning
   * STAT 150: Introduction to Statistical Investigations
   * STAT 217: Introduction to Statistical Concepts and Methods
@@ -54,6 +54,6 @@ redirect_from:
   * STAT 418: Analysis of Cross-Classied Data
   * STAT 419: Applied Multivariate Statistics
 
-* Rikkyo University
+* <strong>Rikkyo University</strong>
   * FB 146: Introduction to Statistics 1  
   * FB 147: Introduction to Statistics 2
