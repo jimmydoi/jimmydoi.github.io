@@ -110,7 +110,7 @@ As such, the translations may contain some errors.</small>
 <!-- ######################################################################## -->
 <!-- ######################################################################## -->
 
-<p><hr></p>
+---
 
 ## [STUB (Statistical Thinking in Undergraduate Biology)](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"}
 
