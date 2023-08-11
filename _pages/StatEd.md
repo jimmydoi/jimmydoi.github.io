@@ -11,9 +11,9 @@ redirect_from:
 -->
 
 * <small>Some files on this site were translated into Japanese using Google.
-As such, the translations may contain some errors.</small>
+As such, the translations may contain some errors.</small>{: .notice}
 * <small>このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
-そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
+そのため、翻訳には多少の誤りが含まれる可能性があります。</small>{: .notice}
 
 ### [GAISE (Guidelines for Assessment and Instruction in Statistics Education)](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports){:target="_blank" rel="noopener"}
 
