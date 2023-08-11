@@ -27,17 +27,17 @@ As such, the translations may contain some errors.</small>
           <li> 2016 Publication
               <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0" target="_blank">
-              English Version</a></li>
+              PDF - English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0" target="_blank">
-              Japanese Version</a></li>
+              PDF - Japanese Version</a></li>
               </ul>
           </li>
           <li> 2005 Publication
               <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0" target="_blank">
-              English Version</a></li>
+              PDF - English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=0" target="_blank">
-              Japanese Version</a></li>
+              PDF - Japanese Version</a></li>
               </ul>
           </li>
         </ul>
