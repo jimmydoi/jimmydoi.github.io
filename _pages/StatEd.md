@@ -19,19 +19,19 @@ redirect_from:
         <ul>
         <li> <strong>College Report</strong>
           <ul>
-          <li> 2005 Publication
-              <ul>
-              <li>  <a href="https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0">
-              English Version</a></li>
-              <li> <a href="https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=0">
-              Japanese Version</a></li>
-              </ul>
-          </li>
           <li> 2016 Publication
               <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/hx75q1t4mw9sql88kysf8/College-GAISE-2016-ENGL.pdf?rlkey=fwi955iafer028xhcetsiqnan&dl=0">
               English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/szukx8mbdc4eh6wiutko1/College-GAISE-2016-JAPN.pdf?rlkey=iyu6c84ije1pzjgh9shzt9bnx&dl=0">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+          <li> 2005 Publication
+              <ul>
+              <li>  <a href="https://www.dropbox.com/scl/fi/40766zpa134bu7egq8t68/College-GAISE-2005-ENGL.pdf?rlkey=z8wddzbgstv0k9g9nfanmaiie&dl=0">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/wn0y0y8ypnqvfwvubd204/College-GAISE-2005-JAPN.pdf?rlkey=t6ej4m4a0ydf7gspfhpgr0jvl&dl=0">
               Japanese Version</a></li>
               </ul>
           </li>
@@ -43,19 +43,19 @@ redirect_from:
         <ul>
         <li> <strong>PreK to 12th Grade Report</strong>
           <ul>
-          <li> 2007 Publication
-              <ul>
-              <li>  <a href="https://www.dropbox.com/scl/fi/qk6q6qt4nvclnagzf5ptt/PreK-12-GAISE-2007-ENGL.pdf?rlkey=boxpajsn1wobsz49gwr9yrbo0&dl=0">
-              English Version</a></li>
-              <li> <a href="https://www.dropbox.com/scl/fi/vycamwhx2ey0adn3xgx75/PreK-12-GAISE-2007-JAPN.pdf?rlkey=93fkgzprmz4es3raeuygqjawk&dl=0">
-              Japanese Version</a></li>
-              </ul>
-          </li>
           <li> 2020 Publication
               <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/mtaybqr6qtpv413nfjoln/PreK-12-GAISE-2020-ENGL.pdf?rlkey=2po0c1kx3n6ygzw7jli5uhmzh&dl=0">
               English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/qfp8hbavw9z0jg99g2lkr/PreK-12-GAISE-2020-JAPN.pdf?rlkey=g7uy44m6ea6td5k6fzddvfwge&dl=0">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+          <li> 2007 Publication
+              <ul>
+              <li>  <a href="https://www.dropbox.com/scl/fi/qk6q6qt4nvclnagzf5ptt/PreK-12-GAISE-2007-ENGL.pdf?rlkey=boxpajsn1wobsz49gwr9yrbo0&dl=0">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/vycamwhx2ey0adn3xgx75/PreK-12-GAISE-2007-JAPN.pdf?rlkey=93fkgzprmz4es3raeuygqjawk&dl=0">
               Japanese Version</a></li>
               </ul>
           </li>
