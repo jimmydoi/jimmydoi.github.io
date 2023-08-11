@@ -67,7 +67,7 @@ redirect_from:
     <tr>
       <td>
         <ul>
-        <li> <strong>Article: Intro to GAISE II (2020)</strong>
+        <li> <strong>Article: Intro to GAISE II (2020)</strong><br>Harvard Data Science Review
           <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/jqsi57x2rrrqetdzncy9p/Harvard-DS-Rev-GAISE-ENGL.pdf?rlkey=6ctzw9nf1h500ddi4jdnunkm5&dl=0" target="_blank">
               English Version</a></li>
@@ -79,7 +79,7 @@ redirect_from:
       </td>
       <td>
         <ul>
-        <li> <strong>Article: GAISE — Part Deux (2020)</strong>
+        <li> <strong>Article: GAISE — Part Deux (2020)</strong><br>Assoc. for Women in Mathematics
           <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/dhuzbcj1prl5x5ub5x2yz/awm-GAISE-II-ENGL.pdf?rlkey=kx3h5n2iy9wuzv5jolt1gf99n&dl=0" target="_blank">
               English Version</a></li>
