@@ -161,3 +161,5 @@ As such, the translations may contain some errors.</small>
 * [PDF - Japanese Version](https://www.dropbox.com/scl/fi/aygkxi1j461kgng8awe05/SD_Geometry_JAPN.pdf?rlkey=vkmhy93xd221jp51q0vsk807g&dl=0){:target="_blank" rel="noopener"}
 
 ---
+
+&nbsp;
