@@ -67,24 +67,30 @@ redirect_from:
     <tr>
       <td>
         <ul>
-        <li> <strong>Article: Intro to GAISE II (2020)</strong><br>Harvard Data Science Review
+        <li> <strong>Harvard Data Science Review</strong>
+        <ul>
+        <li>Article: Introduction to GAISE II (2020)
           <ul>
               <li>  <a href="https://www.dropbox.com/scl/fi/jqsi57x2rrrqetdzncy9p/Harvard-DS-Rev-GAISE-ENGL.pdf?rlkey=6ctzw9nf1h500ddi4jdnunkm5&dl=0" target="_blank">
               English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/sf4r0sgsnpygcjff383ey/Harvard-DS-Rev-GAISE-JAPN.pdf?rlkey=xq7ixb0gk2i9mdncbk0doydaa&dl=0" target="_blank">
               Japanese Version</a></li>
+              </li></ul>
         </ul>
         </li>
         </ul>
       </td>
       <td>
         <ul>
-        <li> <strong>Article: GAISE — Part Deux (2020)</strong><br>Assoc. for Women in Mathematics
+        <li> <strong>Assoc. for Women in Mathematics</strong>
+        <ul>
+        <li>Article: GAISE -- Part Deux (2020)
           <ul>
-              <li>  <a href="https://www.dropbox.com/scl/fi/dhuzbcj1prl5x5ub5x2yz/awm-GAISE-II-ENGL.pdf?rlkey=kx3h5n2iy9wuzv5jolt1gf99n&dl=0" target="_blank">
-              English Version</a></li>
-              <li> <a href="https://www.dropbox.com/scl/fi/4yhz32qh3vspmzj7epmjy/awm-GAISE-II-JAPN.pdf?rlkey=3z4bbfiok5pl8l88ye4dvjd9t&dl=0" target="_blank">
-              Japanese Version</a></li>
+          <li>  <a href="https://www.dropbox.com/scl/fi/dhuzbcj1prl5x5ub5x2yz/awm-GAISE-II-ENGL.pdf?rlkey=kx3h5n2iy9wuzv5jolt1gf99n&dl=0" target="_blank">
+          English Version</a></li>
+          <li> <a href="https://www.dropbox.com/scl/fi/4yhz32qh3vspmzj7epmjy/awm-GAISE-II-JAPN.pdf?rlkey=3z4bbfiok5pl8l88ye4dvjd9t&dl=0" target="_blank">
+          Japanese Version</a></li>
+              </li></ul>
         </ul>
         </li>
         </ul>
