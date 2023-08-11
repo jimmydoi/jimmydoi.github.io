@@ -10,6 +10,11 @@ redirect_from:
   - /StatEd.html
 -->
 
+* <small>Many files on this site were translated into Japanese using Google.
+As such, the translations may contain some errors.</small>
+* <small>このサイトの多くのファイルは Google を使用して日本語に翻訳されています。
+そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
+
 ## GAISE (Guidelines for Assessment and Instruction in Statistics Education)
 
 <table>
