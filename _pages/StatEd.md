@@ -75,7 +75,8 @@ redirect_from:
               English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/sf4r0sgsnpygcjff383ey/Harvard-DS-Rev-GAISE-JAPN.pdf?rlkey=xq7ixb0gk2i9mdncbk0doydaa&dl=0" target="_blank">
               Japanese Version</a></li>
-              </li></ul>
+          </ul>
+        </li>
         </ul>
         </li>
         </ul>
@@ -90,7 +91,8 @@ redirect_from:
           English Version</a></li>
           <li> <a href="https://www.dropbox.com/scl/fi/4yhz32qh3vspmzj7epmjy/awm-GAISE-II-JAPN.pdf?rlkey=3z4bbfiok5pl8l88ye4dvjd9t&dl=0" target="_blank">
           Japanese Version</a></li>
-              </li></ul>
+          </ul>
+        </li>
         </ul>
         </li>
         </ul>
