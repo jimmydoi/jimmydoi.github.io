@@ -124,9 +124,9 @@ As such, the translations may contain some errors.</small>
           <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content" target="_blank">Introductory Level</a>
               <ul>
               <li>  <a href="https://www.dropbox.com/s/nyplqn6ivzys8kz/STUB_INTRO_ENGL.zip?dl=0" target="_blank">
-              English Version</a></li>
+              Zip Archive -- English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/fsyjeo445s8xbhfppwjgv/STUB_INTRO_JAPN.zip?rlkey=7vgx3qz2t4z9pvaujp2wzahz5&dl=0" target="_blank">
-              Japanese Version</a></li>
+              Zip Archive -- Japanese Version</a></li>
               </ul>
           </li>
         </ul>
@@ -140,9 +140,9 @@ As such, the translations may contain some errors.</small>
           <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content-intermediate/" target="_blank">Intermediate Level</a>
               <ul>
               <li>  <a href="https://www.dropbox.com/s/06brgk0lso8qzun/STUB_INTERMED_ENGL.zip?dl=0" target="_blank">
-              English Version</a></li>
+              Zip Archive -- English Version</a></li>
               <li> <a href="https://www.dropbox.com/scl/fi/3k2303uy8ivjqaqmb9apl/STUB_INTERMED_JAPN.zip?rlkey=zqo59gocfri7nxgyzbi0qwjlb&dl=0" target="_blank">
-              Japanese Version</a></li>
+              Zip Archive -- Japanese Version</a></li>
               </ul>
           </li>        
           </ul>
