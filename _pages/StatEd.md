@@ -113,3 +113,58 @@ As such, the translations may contain some errors.</small>
 <hr>
 
 ## [STUB (Statistical Thinking in Undergraduate Biology)](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"}
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+        <li> <strong>Statistical Explorations with Biological Content</strong>
+          <ul>
+          <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content" target="_blank">Introductory Level</a>
+              <ul>
+              <li>  <a href="https://www.dropbox.com/s/nyplqn6ivzys8kz/STUB_INTRO_ENGL.zip?dl=0" target="_blank">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/fsyjeo445s8xbhfppwjgv/STUB_INTRO_JAPN.zip?rlkey=7vgx3qz2t4z9pvaujp2wzahz5&dl=0" target="_blank">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+          <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content-intermediate/" target="_blank">Intermediate Level</a>
+              <ul>
+              <li>  <a href="https://www.dropbox.com/s/06brgk0lso8qzun/STUB_INTERMED_ENGL.zip?dl=0" target="_blank">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/3k2303uy8ivjqaqmb9apl/STUB_INTERMED_JAPN.zip?rlkey=zqo59gocfri7nxgyzbi0qwjlb&dl=0" target="_blank">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+        </ul>
+        </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+        <li> <strong>PreK to 12th Grade Report</strong>
+          <ul>
+          <li> 2020 Publication
+              <ul>
+              <li>  <a href="https://www.dropbox.com/scl/fi/mtaybqr6qtpv413nfjoln/PreK-12-GAISE-2020-ENGL.pdf?rlkey=2po0c1kx3n6ygzw7jli5uhmzh&dl=0" target="_blank">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/qfp8hbavw9z0jg99g2lkr/PreK-12-GAISE-2020-JAPN.pdf?rlkey=g7uy44m6ea6td5k6fzddvfwge&dl=0" target="_blank">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+          <li> 2007 Publication
+              <ul>
+              <li>  <a href="https://www.dropbox.com/scl/fi/qk6q6qt4nvclnagzf5ptt/PreK-12-GAISE-2007-ENGL.pdf?rlkey=boxpajsn1wobsz49gwr9yrbo0&dl=0" target="_blank">
+              English Version</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/vycamwhx2ey0adn3xgx75/PreK-12-GAISE-2007-JAPN.pdf?rlkey=93fkgzprmz4es3raeuygqjawk&dl=0" target="_blank">
+              Japanese Version</a></li>
+              </ul>
+          </li>
+        </ul>
+        </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
