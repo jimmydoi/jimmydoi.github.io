@@ -16,6 +16,8 @@ As such, the translations may contain some errors.</small>
 > <small>このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
 そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
 
+---
+
 ### [GAISE (Guidelines for Assessment and Instruction in Statistics Education)](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports){:target="_blank" rel="noopener"} {#GAISE}
 
 <table>
@@ -160,6 +162,13 @@ As such, the translations may contain some errors.</small>
 
 * [PDF - English](https://www.dropbox.com/scl/fi/pxq9wfex49da27txnb5ap/SD_Geometry_ENGL.pdf?rlkey=hd26g84vv36j5bwy5l54lok0u&dl=0){:target="_blank" rel="noopener"}
 * [PDF - 日本語](https://www.dropbox.com/scl/fi/aygkxi1j461kgng8awe05/SD_Geometry_JAPN.pdf?rlkey=vkmhy93xd221jp51q0vsk807g&dl=0){:target="_blank" rel="noopener"}
+
+---
+
+### Selected Lectures by [Dr. Allan Rossman](https://statistics.calpoly.edu/allan-rossman){:target="_blank" rel="noopener"}
+
+* [PDF - English](https://www.dropbox.com/s/0gxbyxd9i9t3d2g/Rossman_Lectures_ENGL.zip?dl=0){:target="_blank" rel="noopener"}
+* [PDF - 日本語](https://www.dropbox.com/s/s2926w6xmuaa6qv/Rossman_Lectures_JAPN.zip?dl=0){:target="_blank" rel="noopener"}
 
 ---
 
