@@ -4,6 +4,14 @@ title: "Statistics Education"
 author_profile: true
 ---
 
+<style>
+  hr {
+    height: 2px;
+    background-color: #ff0000;
+    border: none;
+  }
+</style>
+
 <!--
 redirect_from:
   - /StatEd/
@@ -16,7 +24,7 @@ As such, the translations may contain some errors.</small>
 > <small>このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
 そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
 
----
+<hr>
 
 ### [GAISE (Guidelines for Assessment and Instruction in Statistics Education)](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports){:target="_blank" rel="noopener"} {#GAISE}
 
