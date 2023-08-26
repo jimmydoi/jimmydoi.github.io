@@ -145,20 +145,15 @@ As such, the translations may contain some errors.</small>
         <ul>
         <li> <strong>Statistical Explorations with Biological Content</strong>
           <ul>
-          <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content-intermediate/" target="_blank">Intermediate Level: Outline</a>
+          <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content-intermediate/" target="_blank">Intermediate Level</a>
               <ul>
               <li>  <a href="https://www.dropbox.com/s/06brgk0lso8qzun/STUB_INTERMED_ENGL.zip?dl=0" target="_blank">
               Zip - English</a></li>
+              <li> <a href="https://www.dropbox.com/scl/fi/3k2303uy8ivjqaqmb9apl/STUB_INTERMED_JAPN.zip?rlkey=zqo59gocfri7nxgyzbi0qwjlb&dl=0" target="_blank">
+              Zip - 日本語</a></li>
               </ul>
-          </li>
-          <li><a href="https://jimmydoi.github.io/StatEd/STUB_interm_JAPN">中門レベル: 探査概要
-          </a>
-          <ul>
-          <li> <a href="https://www.dropbox.com/scl/fi/3k2303uy8ivjqaqmb9apl/STUB_INTERMED_JAPN.zip?rlkey=zqo59gocfri7nxgyzbi0qwjlb&dl=0" target="_blank">
-          Zip - 日本語</a></li>
+          </li>        
           </ul>
-          </li>
-        </ul>
         </li>
         </ul>
       </td>
