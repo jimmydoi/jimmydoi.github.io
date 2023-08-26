@@ -6,7 +6,7 @@ author_profile: true
 
 <style>
   hr {
-    height: 1.5px;
+    height: 1px;
     background-color: #919888;
     border: none;
   }
