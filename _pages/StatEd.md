@@ -173,3 +173,5 @@ As such, the translations may contain some errors.</small>
 ---
 
 &nbsp;
+
+* [OUTLINE](STUB_intro_JAPN){:target="_blank" rel="noopener"}
