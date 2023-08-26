@@ -132,6 +132,8 @@ As such, the translations may contain some errors.</small>
               Zip - 日本語</a></li>
               </ul>
           </li>
+          <li><a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content" target="_blank">Introductory Level
+          </a></li>
         </ul>
         </li>
         </ul>
