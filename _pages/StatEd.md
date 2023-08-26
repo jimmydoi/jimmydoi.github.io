@@ -133,7 +133,14 @@ As such, the translations may contain some errors.</small>
               </ul>
           </li>
           <li><a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content" target="_blank">Introductory Level
-          </a></li>
+          </a>
+          <ul>
+          <li>  <a href="https://www.dropbox.com/s/nyplqn6ivzys8kz/STUB_INTRO_ENGL.zip?dl=0" target="_blank">
+          Zip - English</a></li>
+          <li> <a href="https://www.dropbox.com/scl/fi/fsyjeo445s8xbhfppwjgv/STUB_INTRO_JAPN.zip?rlkey=7vgx3qz2t4z9pvaujp2wzahz5&dl=0" target="_blank">
+          Zip - 日本語</a></li>
+          </ul>
+          </li>
         </ul>
         </li>
         </ul>
