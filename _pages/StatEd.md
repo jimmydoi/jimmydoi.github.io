@@ -130,7 +130,7 @@ As such, the translations may contain some errors.</small>
               Zip - English</a></li>
               </ul>
           </li>
-          <li><a href="https://jimmydoi.github.io/StatEd/STUB_intro_JAPN">入門レベル: 探査概要
+          <li><a href="https://jimmydoi.github.io/StatEd/STUB_intro_JAPN">入門レベル: 概要
           </a>
           <ul>
           <li> <a href="https://www.dropbox.com/scl/fi/fsyjeo445s8xbhfppwjgv/STUB_INTRO_JAPN.zip?rlkey=7vgx3qz2t4z9pvaujp2wzahz5&dl=0" target="_blank">
@@ -151,7 +151,7 @@ As such, the translations may contain some errors.</small>
               Zip - English</a></li>
               </ul>
           </li>
-          <li><a href="https://jimmydoi.github.io/StatEd/STUB_interm_JAPN">中門レベル: 探査概要
+          <li><a href="https://jimmydoi.github.io/StatEd/STUB_interm_JAPN">中門レベル: 概要
           </a>
           <ul>
           <li> <a href="https://www.dropbox.com/scl/fi/3k2303uy8ivjqaqmb9apl/STUB_INTERMED_JAPN.zip?rlkey=zqo59gocfri7nxgyzbi0qwjlb&dl=0" target="_blank">
