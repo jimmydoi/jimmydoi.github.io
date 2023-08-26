@@ -3,7 +3,7 @@ collection: StatEd
 permalink: /StatEd/STUB_intro_JAPN
 ---
 
-# 入門レベル: 探査概要
+### 入門レベル: 探査概要
 
 * チャンスモデルの紹介
   * 探検 1.1: 犬は物の名前を素早く覚えることができるでしょうか?
