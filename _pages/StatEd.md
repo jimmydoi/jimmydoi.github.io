@@ -10,11 +10,12 @@ author_profile: true
     background-color: #E5E4E2;
     border: none;
   }
+
+  .no-italics {
+      font-style: normal;   
+  }
 </style>
 
-.no-italics {
-    font-style: normal;   
-}
 
 <!-- Gray #919888;
 #BF9269
@@ -32,11 +33,11 @@ redirect_from:
   - /StatEd.html
 -->
 
-> <small><span class='no-italics'>📝 Some files on this site were translated into Japanese using Google.
+> <small><span class='no-italics'>📝 <b>Note: </b> Some files on this site were translated into Japanese using Google.
 As such, the translations may contain some errors.</span></small>
 
-> <small>📝 このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
-そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
+> <small><span class='no-italics'>📝 このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
+そのため、翻訳には多少の誤りが含まれる可能性があります。</span></small>
 
 <hr>
 
