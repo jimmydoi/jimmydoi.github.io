@@ -12,6 +12,10 @@ author_profile: true
   }
 </style>
 
+.no-italics {
+    font-style: normal;   
+}
+
 <!-- Gray #919888;
 #BF9269
 #A88C7D
@@ -28,8 +32,8 @@ redirect_from:
   - /StatEd.html
 -->
 
-> <small>📝 Some files on this site were translated into Japanese using Google.
-As such, the translations may contain some errors.</small>
+> <small><span class='no-italics'>📝 Some files on this site were translated into Japanese using Google.
+As such, the translations may contain some errors.</span></small>
 
 > <small>📝 このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
 そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
