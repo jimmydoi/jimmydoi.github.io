@@ -7,10 +7,13 @@ author_profile: true
 <style>
   hr {
     height: 1px;
-    background-color: #919888;
+    background-color: #769067;
     border: none;
   }
 </style>
+
+<!-- Gray #919888;
+-->
 
 <!--
 redirect_from:
