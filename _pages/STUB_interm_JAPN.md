@@ -4,7 +4,7 @@ permalink: /StatEd/STUB_interm_JAPN
 title: "中門レベル: 探査概要"
 ---
 
-<span style="color:red;"><small>*2023年8月中旬追加</small></span>
+<span style="color:red;"><small><sup>*</sup>2023年8月中旬追加</small></span>
 
 * 実験における変動の原因
   * 探査 1.1: スナガニ
@@ -18,11 +18,11 @@ title: "中門レベル: 探査概要"
 * 研究デザインに関するその他の考慮事項
   * 探査 1.6: コレステロール値と居住高度
 
-* <span style="color:red;">単一の定量的説明変数を使用した単純な線形回帰*</span>
-  * <span style="color:red;">探査 4.1 – 4.2: 脂肪酸と DNA*</span>
+* <span style="color:red;"><sup>*</sup>単一の定量的説明変数を使用した単純な線形回帰</span>
+  * <span style="color:red;"><sup>*</sup>探査 4.1 – 4.2: 脂肪酸と DNA</span>
 
-* <span style="color:red;">カテゴリ的説明変数と定量的説明変数の両方を使用した回帰モデル*</span>
-  * <span style="color:red;">探査 4.3: 血糖値の予測*</span>
+* <span style="color:red;"><sup>*</sup>カテゴリ的説明変数と定量的説明変数の両方を使用した回帰モデル</span>
+  * <span style="color:red;"><sup>*</sup>探査 4.3: 血糖値の予測</span>
 
 * 定量的/カテゴリ的相互作用
   * 探査 4.4: FEV と喫煙
