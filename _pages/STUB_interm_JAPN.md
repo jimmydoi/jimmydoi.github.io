@@ -30,14 +30,14 @@ title: "中門レベル: 探査概要"
 * 複数の定量的説明変数を使用した実験
   * 探査 5.1: バイオディーゼル
 
-* 非線形モデル: 多項式関数
-  * 探査 5.3: 鳥の上腕骨長から骨格質量を予測する
+* <span style="color:red;"><sup>*</sup>非線形モデル: 多項式関数</span>
+  * <span style="color:red;"><sup>*</sup>探査 5.3: 鳥の上腕骨長から骨格質量を予測する</span>
 
-* 比率の比較
-  * 探査 6.1: エンドウ豆にチャンスを与える
+* <span style="color:red;"><sup>*</sup>比率の比較</span>
+  * <span style="color:red;"><sup>*</sup>探査 6.1: エンドウ豆にチャンスを与える</span>
 
-* 単純ロジスティック回帰
-  * 探査 6.2: カブトガニ
+* <span style="color:red;"><sup>*</sup>単純ロジスティック回帰</span>
+  * <span style="color:red;"><sup>*</sup>探査 6.2: カブトガニ</span>
 
-* 複数の説明変数を使用したロジスティック回帰
-  * 探査 6.3: 乳がんの予測
+* <span style="color:red;"><sup>*</sup>複数の説明変数を使用したロジスティック回帰</span>
+  * <span style="color:red;"><sup>*</sup>探査 6.3: 乳がんの予測</span>
