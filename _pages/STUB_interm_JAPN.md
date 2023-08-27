@@ -4,7 +4,7 @@ permalink: /StatEd/STUB_interm_JAPN
 title: "中門レベル: 探査概要"
 ---
 
-<span style="color:red;"><small>[]<sup>*</sup>2023年8月中旬追加</small>]</span>
+<span style="color:red;"><small>[<sup>*</sup>2023年8月中旬追加</small>]</span>
 
 * 実験における変動の原因
   * 探査 1.1: スナガニ
