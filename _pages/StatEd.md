@@ -7,7 +7,7 @@ author_profile: true
 <style>
   hr {
     height: 2px;
-    background-color: #B5AFA9;
+    background-color: #E5E4E2;
     border: none;
   }
 </style>
@@ -17,6 +17,7 @@ author_profile: true
 #A88C7D
 #7297A0
 #54738E
+#B5AFA9
 -->
 
 <!--
