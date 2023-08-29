@@ -34,7 +34,7 @@ redirect_from:
 -->
 
 > <small>📝 <b>Note: </b> Some files on this site were translated into Japanese using Google.
-As such, the translations may contain some errors...</small>
+As such, the translations may contain some errors.</small>
 
 > <small>📝 <b>注:</b> このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
 そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
