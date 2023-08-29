@@ -207,13 +207,7 @@ As such, the translations may contain some errors...</small>
 
 &nbsp;
 
----
 
-&nbsp;
-
----
-
-&nbsp;
 
 
 <!--
