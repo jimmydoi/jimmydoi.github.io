@@ -9,6 +9,8 @@ I am a Southern California native and graduated from [CSU Northridge](https://cs
 
 My research interests include categorical data analysis (more specifically, optimal confidence interval methods for discrete distributions) and statistics education. Over the last several years I have been working with educators at universities and high schools in Japan on various topics including active learning and simulation-based inference.
 
+--- 
+
 <!---
 
 My family and I attend [New Life Community Church](https://www.newlifepismo.com) in Pismo Beach. In the past I had the pleasure of serving as faculty advisor for [EPIC SLO](https://www.crucentraALCOast.com/epicslo), the Asian American ministry of Campus Crusade for Christ. You can find out more about my Christian background at [Meet the Prof](https://meettheprof.com/view/professors/entry/jimmy-doi).
