@@ -205,6 +205,15 @@ As such, the translations may contain some errors.</small>
 
 ---
 
+### ChatGPT Article (By Ellis and Slade, July 2023) from Journal of Statistics and Data Science Education
+
+
+* [PDF - English](https://www.dropbox.com/scl/fi/vu6azaz0pme5mpjob5gwb/ChatGPT-article-JSDSE-ENGL.pdf?rlkey=k9rz9se71il5tc6vlftbgf92r&dl=0){:target="_blank" rel="noopener"}
+* [PDF - 日本語](https://www.dropbox.com/scl/fi/plq8tezzlwlq0fuh8rz5z/ChatGPT-article-JSDSE-JAPN.pdf?rlkey=wsmg4unq3a8bmnt5mrd7hux86&dl=0){:target="_blank" rel="noopener"}
+
+---
+
+
 &nbsp;
 
 
