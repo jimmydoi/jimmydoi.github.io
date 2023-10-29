@@ -9,6 +9,9 @@ main:
   - title: "Statistics Education"
     url: /StatEd/
 
+  - title: "統計講義"
+    url: /Lect_JAPN/
+
   - title: "CV Summary"
     url: /cv/
 
