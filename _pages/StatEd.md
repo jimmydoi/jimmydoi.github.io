@@ -202,6 +202,8 @@ As such, the translations may contain some errors.</small>
 
 * [PDF - English](https://www.dropbox.com/s/0gxbyxd9i9t3d2g/Rossman_Lectures_ENGL.zip?dl=0){:target="_blank" rel="noopener"}
 * [PDF - 日本語](https://www.dropbox.com/s/s2926w6xmuaa6qv/Rossman_Lectures_JAPN.zip?dl=0){:target="_blank" rel="noopener"}
+* [PDF - Gettysburg Address Activity: English](https://www.dropbox.com/scl/fi/jq88wbjucwapa3p5ebe1k/GettysburgAddressActivity.pdf?rlkey=hbsl0z92p9hcejo0uwuwreen6&dl=0){:target="_blank" rel="noopener"}
+* [PDF - Gettysburg Address Activity: 日本語](https://www.dropbox.com/scl/fi/7s8bk4futdesypzs9b4tr/GettysburgAddressActivity_JAPN.pdf?rlkey=fus4skl0qaevjmdztdcbkoy3u&dl=0){:target="_blank" rel="noopener"}
 
 ---
 
