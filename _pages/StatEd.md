@@ -33,10 +33,10 @@ redirect_from:
   - /StatEd.html
 -->
 
-> <small>📝 <b>Note: </b> Some files on this site were translated into Japanese using Google.
+> <small>📝 <b>Note: </b> Some files on this page were translated into Japanese using Google.
 As such, the translations may contain some errors.</small>
 
-> <small>📝 <b>注:</b> このサイトのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
+> <small>📝 <b>注:</b> このページのいくつかのファイルはGoogleを使用して日本語に翻訳されました。
 そのため、翻訳には多少の誤りが含まれる可能性があります。</small>
 
 <hr>
