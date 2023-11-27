@@ -41,7 +41,7 @@ As such, the translations may contain some errors.</small>
 
 <hr>
 
-### [GAISE (Guidelines for Assessment and Instruction in Statistics Education)](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports){:target="_blank" rel="noopener"} {#GAISE}
+### [GAISE (Guidelines for Assessment and Instruction in Statistics Education )](https://www.amstat.org/education/guidelines-for-assessment-and-instruction-in-statistics-education-(gaise)-reports){:target="_blank" rel="noopener"} {#GAISE}
 
 <table>
   <tbody>
