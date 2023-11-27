@@ -38,14 +38,14 @@ redirect_from:
 ### シミュレーションに基づく統計的推論
 
 <!-- ############################# -->
-- 対応のない２標本平均値の差の推論([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のない２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/w4ranzph1wl86vt3ltjid/6.2-Two-Means-Simulation-Final_JAPN.pdf?rlkey=9mz52vllz95wvaoj9h2jjue2s&dl=0){:target="_blank" rel="noopener"}
   - [対応するアプレット](https://www.rossmanchance.com/applets/2021/anovashuffle/AnovaShuffle.htm?language=2){:target="_blank" rel="noopener"}
   - [対応するエクセル・ファイル](/files/Group_Avg_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"} &nbsp;
   [![alt text](/files/excel_icon_24.png)](/files/Group_Avg_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"}
   - [データ・カードのテンプレート &nbsp; PDF](/files/Data_Cards.pdf){:target="_blank" rel="noopener"}
 <!-- ############################# -->
-- 対応のある２標本平均値の差の推論([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/wy80b2gvx7s0r33alkmgp/7.1-7.2-Paired-Data-and-Simulation-Final_JAPN.pdf?rlkey=8sceybnzb8yuzy7v48m7rzyig&dl=0){:target="_blank" rel="noopener"}
   - [対応するアプレット](https://www.rossmanchance.com/applets/2021/matchedpairs/MatchedPairs.htm?language=2){:target="_blank" rel="noopener"}
   - [対応するエクセル・ファイル](/files/Pair_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"} &nbsp;
