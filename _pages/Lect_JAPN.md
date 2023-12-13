@@ -1,6 +1,6 @@
 ---
 permalink: /Lect_JAPN/
-title: "統計講義"
+title: "統計講義教材"
 author_profile: false
 ---
 
