@@ -44,10 +44,9 @@ redirect_from:
 
 <!-- ############################# -->
 - 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
-  - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/wy80b2gvx7s0r33alkmgp/7.1-7.2-Paired-Data-and-Simulation-Final_JAPN.pdf?rlkey=8sceybnzb8yuzy7v48m7rzyig&dl=0){:target="_blank" rel="noopener"}
-  - [対応するアプレット](https://www.rossmanchance.com/applets/2021/matchedpairs/MatchedPairs.htm?language=2){:target="_blank" rel="noopener"}
-  - [対応するエクセル・ファイル](/files/Pair_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"} &nbsp;
-  [![alt text](/files/excel_icon_24.png)](/files/Pair_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"}
+- [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}　&nbsp;
+[![alt text](/files/zip_32.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
+
 <!-- ############################# -->
 - 1つの比率の推論
   - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/vhafb8k6pgmdu733095u2/Helper_Hinderer_Doi.pdf?rlkey=u7ho79tn3nr2rgh9wkzlcbgma&dl=0){:target="_blank" rel="noopener"}
@@ -85,4 +84,11 @@ redirect_from:
   - [対応するエクセル・ファイル](/files/Group_Avg_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"} &nbsp;
   [![alt text](/files/excel_icon_24.png)](/files/Group_Avg_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"}
   - [データ・カードのテンプレート &nbsp; PDF](/files/Data_Cards.pdf){:target="_blank" rel="noopener"}
+
+
+  - 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+    - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/wy80b2gvx7s0r33alkmgp/7.1-7.2-Paired-Data-and-Simulation-Final_JAPN.pdf?rlkey=8sceybnzb8yuzy7v48m7rzyig&dl=0){:target="_blank" rel="noopener"}
+    - [対応するアプレット](https://www.rossmanchance.com/applets/2021/matchedpairs/MatchedPairs.htm?language=2){:target="_blank" rel="noopener"}
+    - [対応するエクセル・ファイル](/files/Pair_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"} &nbsp;
+    [![alt text](/files/excel_icon_24.png)](/files/Pair_Shuffle_FINAL.xlsx){:target="_blank" rel="noopener"}
   -->
