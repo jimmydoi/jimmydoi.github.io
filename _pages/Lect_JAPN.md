@@ -44,7 +44,7 @@ redirect_from:
 
 <!-- ############################# -->
 - 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
-- [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}　&nbsp;
+  - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}　&nbsp;
 [![alt text](/files/zip_32.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
