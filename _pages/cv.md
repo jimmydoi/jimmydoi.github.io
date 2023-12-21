@@ -31,7 +31,7 @@ author_profile: false
 ## Selected Publications
 
 * [Doi, J., Holladay, B., & Schilling, M. (2023) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"}
-&nbsp; [Download here](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
+  * [Download here](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
 
 * [土井・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"}
@@ -42,7 +42,7 @@ author_profile: false
 * [Devore, J., Farnum, N., and Doi, J. (2014). "Applied Statistics for Engineers and Scientists", 3rd ed. Belmont, CA: Cengage. ISBN-10: 113311136X](https://books.google.com/books/about/Applied_Statistics_for_Engineers_and_Sci.html?id=psg_CQAAQBAJ&redir_esc=y){:target="_blank" rel="noopener"}
 
 * [Schilling, M. & Doi, J. (2014) A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure, The American Statistician, 68:3, 133-145](https://www.tandfonline.com/doi/abs/10.1080/00031305.2014.899274){:target="_blank" rel="noopener"}
-&nbsp; [Download here](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
+  * [Download here](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
 
 <!--
   <ul>{% for post in site.publications reversed %}
