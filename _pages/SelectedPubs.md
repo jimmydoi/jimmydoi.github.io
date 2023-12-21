@@ -23,7 +23,7 @@ author_profile: false
   * [Download here](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
 * [土井・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"}
-  * (English Version) [Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39.](https://www.dropbox.com/s/svxc7sfq81bv9qw/Doi_SBI_ActiveLearning_FINAL.pdf?dl=0){:target="_blank" rel="noopener"}
+  * [English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39.](https://www.dropbox.com/s/svxc7sfq81bv9qw/Doi_SBI_ActiveLearning_FINAL.pdf?dl=0){:target="_blank" rel="noopener"}
 
 * [Doi, J., Potter, G., Wong, J., Alcaraz, I., and Chi, P. (2016) "Web Application Teaching Tools for Statistics Using R and Shiny". Technology Innovations in Statistics Education, 9(1).](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"}
 
