@@ -18,6 +18,7 @@ gem "github-pages", group: :jekyll_plugins
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# FOLLOWING ADDED BY JD
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you have any plugins, put them here!

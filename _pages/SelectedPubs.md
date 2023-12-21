@@ -18,7 +18,7 @@ author_profile: false
 
 <hr>
 
-* Doi, J., Holladay, B., & Schilling, M. (2023) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation
+* _Doi, J., Holladay, B., & Schilling, M. (2023) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation
   * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
 [[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
