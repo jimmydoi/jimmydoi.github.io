@@ -35,4 +35,4 @@ author_profile: false
 
 * Schilling, M. & Doi, J. (2014) A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure, The American Statistician, 68:3, 133-145
   * [Website](https://www.tandfonline.com/doi/abs/10.1080/00031305.2014.899274){:target="_blank" rel="noopener"}
-  * [Download here](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
+  * [Download](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
