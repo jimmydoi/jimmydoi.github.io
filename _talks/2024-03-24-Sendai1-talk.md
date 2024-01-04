@@ -8,6 +8,6 @@ Science Instructor Workshop -- 2024年理数系教員統計・データサイエ
 date: 2024-03-24
 location: "Sendai, Japan"
 ---
-プレゼンテーション・スライドのダウンロードはこちら
+プレゼンテーション・資料のダウンロードはこちら
 
-Download Presentation Slides Here
+Download Presentation Materials Here

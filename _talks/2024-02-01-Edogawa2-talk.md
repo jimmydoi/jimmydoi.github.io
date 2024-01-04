@@ -7,3 +7,6 @@ venue: "Edogawa University"
 date: 2024-02-01
 location: "Chiba, Japan"
 ---
+プレゼンテーション・資料のダウンロードはこちら
+
+Download Presentation Materials Here
