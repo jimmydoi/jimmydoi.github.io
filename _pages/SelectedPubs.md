@@ -26,7 +26,7 @@ author_profile: false
   * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](https://www.dropbox.com/s/svxc7sfq81bv9qw/Doi_SBI_ActiveLearning_FINAL.pdf?dl=0){:target="_blank" rel="noopener"}
 
 * Doi, J., Potter, G., Wong, J., Alcaraz, I., and Chi, P. (2016) "Web Application Teaching Tools for Statistics Using R and Shiny". Technology Innovations in Statistics Education, 9(1).
-  * [[Download]](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"}
+  * [[Website]](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[Download]](https://escholarship.org/content/qt00d4q8cp/qt00d4q8cp.pdf?t=odeb86){:target="_blank" rel="noopener"}
 
 * Devore, J., Farnum, N., and Doi, J. (2014). "Applied Statistics for Engineers and Scientists", 3rd ed. Belmont, CA: Cengage. ISBN-10: 113311136X
   * [[Website]](https://books.google.com/books/about/Applied_Statistics_for_Engineers_and_Sci.html?id=psg_CQAAQBAJ&redir_esc=y){:target="_blank" rel="noopener"}
