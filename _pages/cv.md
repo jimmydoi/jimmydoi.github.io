@@ -30,15 +30,16 @@ author_profile: false
 
 ## Selected Publications
 
-* Doi, J., Holladay, B., & Schilling, M. (2023) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation
+* Doi, J., Holladay, B., & Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
   * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
 [[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
-* ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号 [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"}
-  * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](https://www.dropbox.com/s/svxc7sfq81bv9qw/Doi_SBI_ActiveLearning_FINAL.pdf?dl=0){:target="_blank" rel="noopener"}
+* ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号
+  * [[ウエブサイト]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_pdf/-char/ja){:target="_blank" rel="noopener"}
+  * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
 
 * Doi, J., Potter, G., Wong, J., Alcaraz, I., and Chi, P. (2016) "Web Application Teaching Tools for Statistics Using R and Shiny". Technology Innovations in Statistics Education, 9(1).
-  * [[Download]](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"}
+  * [[Website]](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[Download]](https://escholarship.org/content/qt00d4q8cp/qt00d4q8cp.pdf?t=odeb86){:target="_blank" rel="noopener"}
 
 * Devore, J., Farnum, N., and Doi, J. (2014). "Applied Statistics for Engineers and Scientists", 3rd ed. Belmont, CA: Cengage. ISBN-10: 113311136X
   * [[Website]](https://books.google.com/books/about/Applied_Statistics_for_Engineers_and_Sci.html?id=psg_CQAAQBAJ&redir_esc=y){:target="_blank" rel="noopener"}
@@ -46,7 +47,7 @@ author_profile: false
 * Schilling, M. & Doi, J. (2014) A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure, The American Statistician, 68:3, 133-145
   * [[Website]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2014.899274){:target="_blank" rel="noopener"} &nbsp; &nbsp;
   [[Download]](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
-
+  
 <!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
