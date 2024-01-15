@@ -9,7 +9,6 @@ location: "Tokyo, Japan"
 ---
 
 
-[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](/files/STUB6.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](/files/RIKKYO-2024-GPT.zip){:target="_blank" rel="noopener"}  
+[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"}  
 
-
-Download Presentation Materials Here
+[Download Presentation Materials Here](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"}  
