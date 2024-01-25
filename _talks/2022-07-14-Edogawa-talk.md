@@ -21,4 +21,4 @@ location: "Chiba, Japan"
 
 ---
 
-> [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptDEIStatements)
+> [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptStatementsDEI)
