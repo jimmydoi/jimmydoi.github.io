@@ -1,7 +1,7 @@
 ---
 permalink: /StatEd/
 title: "Statistics Education"
-author_profile: true
+author_profile: false
 ---
 
 <!--

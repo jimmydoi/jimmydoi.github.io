@@ -2,6 +2,7 @@
 collection: StatEd
 permalink: /StatEd/STUB_interm_JAPN
 title: "中門レベル: 探査概要"
+author_profile: false
 ---
 
 <span style="color:red;"><small>(<sup>*</sup>2023年8月中旬追加</small>)</span>

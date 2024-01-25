@@ -2,6 +2,7 @@
 collection: StatEd
 permalink: /StatEd/STUB_intro_JAPN
 title: "入門レベル: 探査概要"
+author_profile: false
 ---
 
 * チャンスモデルの紹介
