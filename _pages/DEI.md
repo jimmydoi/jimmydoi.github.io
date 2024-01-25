@@ -33,8 +33,22 @@ redirect_from:
   - /StatEd.html
 -->
 
-### [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
+### [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements){:target="_blank" rel="noopener"}
 
+---
+## Resources
+
+[Article: “Diversity in Data Science & Statistics” (many resources listed for women and underrepresented minorites in statistics and data science)]
+(https://teachdatascience.com/diversity/){:target="_blank" rel="noopener"}
+
+[Article: “Crunching the Numbers on Diversity in Data Science: Events & Resources to Foster Inclusion”]
+(https://medium.com/stem-and-culture-chronicle/crunching-the-numbers-on-diversity-in-data-science-events-resources-to-foster-inclusion-5dc81d2ab52){:target="_blank" rel="noopener"}
+
+[ASA JEDI Corner]
+(https://magazine.amstat.org/blog/category/jedi-corner/)){:target="_blank" rel="noopener"}
+
+[ASA JEDI Outreach Group]
+(https://datascijedi.org/){:target="_blank" rel="noopener"}
 
 ---
 
