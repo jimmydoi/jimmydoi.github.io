@@ -35,9 +35,6 @@ redirect_from:
 
 ### [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
 
-## [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
-
-# [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
 
 ---
 
