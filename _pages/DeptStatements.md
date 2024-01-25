@@ -43,7 +43,7 @@ redirect_from:
 
 *	[UC Berkeley Statistics Dept.](https://statistics.berkeley.edu/about/dei){:target="_blank" rel="noopener"}
 
-*	[Cal Poly San Luis Obispo Statistics Dept.](https://statistics.calpoly.edu/statistics-department-statement-diversityequity-and-inclusion){:target="_blank" rel="noopener"}
+*	[Cal Poly San Luis Obispo Statistics Dept.](https://statistics.calpoly.edu/statistics-department-statement-diversity-equity-and-inclusion){:target="_blank" rel="noopener"}
 
 *	[Columbia University Statistics Dept.](https://stat.columbia.edu/diversity-statement){:target="_blank" rel="noopener"}
 
@@ -53,7 +53,7 @@ redirect_from:
 
 *	[North Carolina State Univ. Statistics Dept.](https://statistics.sciences.ncsu.edu/know-us/diversity-and-inclusion){:target="_blank" rel="noopener"}
 
-*	[Villanova University Math & Statistics Dept.](https://www1.villanova.edu/university/liberal-artssciences/programs/mathematics-statistics/guiding-principles.html){:target="_blank" rel="noopener"}
+*	[Villanova University Math & Statistics Dept.](https://www1.villanova.edu/university/liberal-arts-sciences/programs/mathematics-statistics/guiding-principles.html){:target="_blank" rel="noopener"}
 
 *	[Univ. of Washington Statistics Dept.](https://stat.uw.edu/about-us/diversity){:target="_blank" rel="noopener"}
 
