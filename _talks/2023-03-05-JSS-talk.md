@@ -18,3 +18,7 @@ location: "Tokyo, Japan"
       font-style: normal;   
   }
 </style>
+
+---
+
+> [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptDEIStatements)
