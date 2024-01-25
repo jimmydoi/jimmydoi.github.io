@@ -38,24 +38,45 @@ redirect_from:
 <hr>
 
 -	Appalachian State Univ. Dept. of Mathematical Sciences
+
   - [https://mathsci.appstate.edu/diversity](https://mathsci.appstate.edu/diversity){:target="_blank" rel="noopener"}
+
+
+
 *	Arizona State Univ. School of Mathematical and Statistical Sciences
+
   * [https://math.asu.edu/diversity](https://math.asu.edu/diversity){:target="_blank" rel="noopener"}
+
 *	UC Berkeley Statistics Dept.
+
   * [https://statistics.berkeley.edu/about/dei](https://statistics.berkeley.edu/about/dei){:target="_blank" rel="noopener"}
+
 *	Cal Poly San Luis Obispo Statistics Dept.
+
   * [https://statistics.calpoly.edu/statistics-department-statement-diversityequity-and-inclusion](https://statistics.calpoly.edu/statistics-department-statement-diversityequity-and-inclusion){:target="_blank" rel="noopener"}
+
 *	Columbia University Statistics Dept.
+
   * [https://stat.columbia.edu/diversity-statement](https://stat.columbia.edu/diversity-statement){:target="_blank" rel="noopener"}
+
 *	Duke University Statistics Dept.
+
   * [https://stat.duke.edu/diversity-equity-and-inclusion](https://stat.duke.edu/diversity-equity-and-inclusion){:target="_blank" rel="noopener"}
+
 *	Iowa State University Statistics Dept.
+
   * [https://www.stat.iastate.edu/diversity-equity-and-inclusion-dei-statistics](https://www.stat.iastate.edu/diversity-equity-and-inclusion-dei-statistics){:target="_blank" rel="noopener"}
+
 *	North Carolina State Univ. Statistics Dept.
+
   * [https://statistics.sciences.ncsu.edu/know-us/diversity-and-inclusion](https://statistics.sciences.ncsu.edu/know-us/diversity-and-inclusion){:target="_blank" rel="noopener"}
+
 *	Villanova University Math & Statistics Dept.
+
   * [https://www1.villanova.edu/university/liberal-artssciences/programs/mathematics-statistics/guiding-principles.html](https://www1.villanova.edu/university/liberal-artssciences/programs/mathematics-statistics/guiding-principles.html){:target="_blank" rel="noopener"}
+
 *	Univ. of Washington Statistics Dept.
+
   * [https://stat.uw.edu/about-us/diversity](https://stat.uw.edu/about-us/diversity){:target="_blank" rel="noopener"}
 
 ---
