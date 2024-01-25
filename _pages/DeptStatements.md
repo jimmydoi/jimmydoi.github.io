@@ -37,8 +37,8 @@ redirect_from:
 
 <hr>
 
-*	Appalachian State Univ. Dept. of Mathematical Sciences
-  * [https://mathsci.appstate.edu/diversity](https://mathsci.appstate.edu/diversity){:target="_blank" rel="noopener"}
+-	Appalachian State Univ. Dept. of Mathematical Sciences
+  - [https://mathsci.appstate.edu/diversity](https://mathsci.appstate.edu/diversity){:target="_blank" rel="noopener"}
 *	Arizona State Univ. School of Mathematical and Statistical Sciences
   * [https://math.asu.edu/diversity](https://math.asu.edu/diversity){:target="_blank" rel="noopener"}
 *	UC Berkeley Statistics Dept.
