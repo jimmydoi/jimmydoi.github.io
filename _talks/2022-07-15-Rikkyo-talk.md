@@ -7,3 +7,14 @@ venue: "Rikkyo University"
 date: 2022-07-15
 location: "Tokyo, Japan"
 ---
+<style>
+  hr {
+    height: 2px;
+    background-color: #E5E4E2;
+    border: none;
+  }
+
+  .no-italics {
+      font-style: normal;   
+  }
+</style>

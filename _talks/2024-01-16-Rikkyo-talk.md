@@ -7,7 +7,17 @@ venue: "Rikkyo University"
 date: 2024-01-16
 location: "Tokyo, Japan"
 ---
+<style>
+  hr {
+    height: 2px;
+    background-color: #E5E4E2;
+    border: none;
+  }
 
+  .no-italics {
+      font-style: normal;   
+  }
+</style>
 
 [プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](/files/2024_Rikkyo_Presentation_Materials.zip){:target="_blank" rel="noopener"}  
 

@@ -5,6 +5,18 @@ title: "入門レベル: 探査概要"
 author_profile: false
 ---
 
+<style>
+  hr {
+    height: 2px;
+    background-color: #E5E4E2;
+    border: none;
+  }
+
+  .no-italics {
+      font-style: normal;   
+  }
+</style>
+
 * チャンスモデルの紹介
   * 探査 1.1: 犬は物の名前を素早く覚えることができるでしょうか?
 

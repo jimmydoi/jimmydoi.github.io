@@ -5,6 +5,18 @@ title: "中門レベル: 探査概要"
 author_profile: false
 ---
 
+<style>
+  hr {
+    height: 2px;
+    background-color: #E5E4E2;
+    border: none;
+  }
+
+  .no-italics {
+      font-style: normal;   
+  }
+</style>
+
 <span style="color:red;"><small>(<sup>*</sup>2023年8月中旬追加</small>)</span>
 
 * 実験における変動の原因
