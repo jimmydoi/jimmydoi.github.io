@@ -33,9 +33,11 @@ redirect_from:
   - /StatEd.html
 -->
 
-### [STUB (Statistical Thinking in Undergraduate Biology)](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"} {#STUB}
+### [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
 
-* [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
+## [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
+
+# [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements)
 
 ---
 
