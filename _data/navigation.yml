@@ -6,17 +6,15 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "CV Summary"
-    url: /cv/
-
   - title: "Statistics Education"
     url: /StatEd/
 
   - title: "統計講義教材"
     url: /Lect_JAPN/
 
-  - title: "DEI"
-    url: /DEI/
+  - title: "CV Summary"
+    url: /cv/
+
 
 #  - title: "Portfolio"
 #    url: /portfolio/
