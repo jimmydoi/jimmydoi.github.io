@@ -41,8 +41,6 @@ redirect_from:
 
   - [https://mathsci.appstate.edu/diversity](https://mathsci.appstate.edu/diversity){:target="_blank" rel="noopener"}
 
-
-
 *	Arizona State Univ. School of Mathematical and Statistical Sciences
 
   * [https://math.asu.edu/diversity](https://math.asu.edu/diversity){:target="_blank" rel="noopener"}
