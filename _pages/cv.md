@@ -9,6 +9,18 @@ author_profile: false
 
 ---
 
+<style>
+  hr {
+    height: 2px;
+    background-color: #E5E4E2;
+    border: none;
+  }
+
+  .no-italics {
+      font-style: normal;   
+  }
+</style>
+
 ## Education
 * Ph.D. in Statistics, North Carolina State University, 2003
 * M.S. in Statistics, North Carolina State University, 1998
@@ -47,7 +59,7 @@ author_profile: false
 * Schilling, M. & Doi, J. (2014) A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure, The American Statistician, 68:3, 133-145
   * [[Website]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2014.899274){:target="_blank" rel="noopener"} &nbsp; &nbsp;
   [[Download]](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
-  
+
 <!--
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
