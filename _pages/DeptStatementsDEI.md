@@ -59,7 +59,7 @@ redirect_from:
 
 ---
 
-> [Presentation: Diversity, Equity, Inclusivity (DEI) at ASA and Various US Universities](https://jimmydoi.github.io/talks/2023-09-06-JJSM-talk)
+> [2023 JJSM Presentation: Diversity, Equity, Inclusivity (DEI) at ASA and Various US Universities](https://jimmydoi.github.io/talks/2023-09-06-JJSM-talk)
 
 
 &nbsp;
