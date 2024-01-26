@@ -20,6 +20,4 @@ location: "Hiroshima, Japan"
   }
 </style>
 
-<b>
-Hiroshima University Super Science High School  -- 広島大学附属中・高等学校
-</b>
+<b>Hiroshima University Super Science High School  -- 広島大学附属中・高等学校</b>
