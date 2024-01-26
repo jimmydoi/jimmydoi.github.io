@@ -33,7 +33,7 @@ redirect_from:
   - /StatEd.html
 -->
 
-* ### [Department DEI Statements](https://jimmydoi.github.io/DEI-Dept){:target="_blank" rel="noopener"}
+* ## [Department DEI Statements](https://jimmydoi.github.io/DEI-Dept){:target="_blank" rel="noopener"}
 
 ---
 
