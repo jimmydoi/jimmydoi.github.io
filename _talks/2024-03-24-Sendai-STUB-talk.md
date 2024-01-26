@@ -23,7 +23,8 @@ location: "Sendai, Japan"
 
 <b>
 2024 Science, Mathematics, Statistics, and Data
-Science Instructor Workshop -- 2024年理数系教員統計・データサイエンス 授業力向上研修集会
+Science Instructor Workshop</b><br>
+<b>2024年理数系教員統計・データサイエンス 授業力向上研修集会
 </b>
 
 プレゼンテーション・資料のダウンロードはこちら
