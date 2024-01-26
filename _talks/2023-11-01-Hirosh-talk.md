@@ -3,7 +3,8 @@ title: "Simulation-based Inference: STUB Network Example of Two Independent Samp
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2023-11-01-Hirosh-talk
-venue: "Hiroshima University Super Science High School"
+venue: "Hiroshima University Super Science High School -- 広島大学附属中・高等学校
+"
 date: 2023-11-01
 location: "Hiroshima, Japan"
 ---
@@ -18,3 +19,7 @@ location: "Hiroshima, Japan"
       font-style: normal;   
   }
 </style>
+
+<b>
+Hiroshima University Super Science High School -- 広島大学附属中・高等学校
+</b>

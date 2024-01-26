@@ -20,6 +20,10 @@ location: "Chiba, Japan"
   }
 </style>
 
+<b>
+Edogawa University
+</b>
+
 [プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"}  
 
 [Download Presentation Materials Here](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_32.png)](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"}  

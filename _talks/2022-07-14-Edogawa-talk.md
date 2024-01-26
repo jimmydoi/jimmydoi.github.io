@@ -19,6 +19,10 @@ location: "Chiba, Japan"
   }
 </style>
 
+<b>
+Edogawa University
+</b>
+
 ---
 
 > [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptStatementsDEI)

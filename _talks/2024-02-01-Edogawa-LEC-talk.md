@@ -18,3 +18,7 @@ location: "Chiba, Japan"
       font-style: normal;   
   }
 </style>
+
+<b>
+Edogawa University
+</b>

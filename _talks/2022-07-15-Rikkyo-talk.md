@@ -19,6 +19,10 @@ location: "Tokyo, Japan"
   }
 </style>
 
+<b>
+Rikkyo University
+</b>
+
 ---
 
 > [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptStatementsDEI)
