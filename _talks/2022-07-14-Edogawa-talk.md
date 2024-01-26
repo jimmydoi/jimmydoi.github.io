@@ -25,4 +25,4 @@ Edogawa University
 
 ---
 
-> [Department Statements on DEI](https://jimmydoi.github.io/SelectedPubs/DeptStatementsDEI)
+> [Department Statements on DEI](https://jimmydoi.github.io/DeptStatementsDEI)
