@@ -35,6 +35,8 @@ redirect_from:
 
 * ## [Department DEI Statements](https://jimmydoi.github.io/DEI-Dept){:target="_blank" rel="noopener"}
 
+* ## [2020-22 Statistics Department DEI Committee Activities](/files/2020_22_DEI_Committee.pdf){:target="_blank" rel="noopener"}
+
 ---
 
 ## Resources
@@ -55,8 +57,6 @@ redirect_from:
 
 
 &nbsp;
-
-
 
 
 <!--

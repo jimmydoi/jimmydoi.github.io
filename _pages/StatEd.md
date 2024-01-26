@@ -211,11 +211,11 @@ As such, the translations may contain some errors.</small>
 
 
 * [PDF - English](/files/EllisSlade_ENGL.pdf){:target="_blank" rel="noopener"}
-* [PDF 1 - 日本語 - Google](/files/EllisSlade_JAPN_Google.pdf){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}
+* [PDF 1 - 日本語 - Google](/files/EllisSlade_JAPN_Google.pdf){:target="_blank" rel="noopener"}
 &nbsp; &nbsp;
-[PDF 2 - 日本語 - DeepL](/files/EllisSlade_JAPN_DeepL.pdf){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}
+[PDF 2 - 日本語 - DeepL](/files/EllisSlade_JAPN_DeepL.pdf){:target="_blank" rel="noopener"}
 &nbsp; &nbsp;
-[PDF 3 - 日本語 - ChatGPT](/files/EllisSlade_JAPN_ChatGPT.pdf){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}
+[PDF 3 - 日本語 - ChatGPT](/files/EllisSlade_JAPN_ChatGPT.pdf){:target="_blank" rel="noopener"}
 
 ---
 
