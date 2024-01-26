@@ -1,6 +1,6 @@
 ---
-permalink: /DEI/
 title: "Diversity, Equity, Inclusivity (DEI)"
+permalink: DEI
 author_profile: false
 ---
 
@@ -33,7 +33,7 @@ redirect_from:
   - /StatEd.html
 -->
 
-## [Department DEI Statements](https://jimmydoi.github.io/DEI/DeptStatements){:target="_blank" rel="noopener"}
+## [Department DEI Statements](https://jimmydoi.github.io/DEI-Dept){:target="_blank" rel="noopener"}
 
 ---
 
@@ -48,6 +48,10 @@ redirect_from:
 [ASA JEDI Outreach Group](https://datascijedi.org/){:target="_blank" rel="noopener"}
 
 ---
+
+> [2023 JJSM Presentation: Diversity, Equity, Inclusivity (DEI) at ASA and Various US Universities](https://jimmydoi.github.io/talks/2023-09-06-JJSM-talk)
+
+> [2023 JSS Presentation: Diversity, Equity, Inclusivity (DEI) at ASA and Various US Universities](https://jimmydoi.github.io/talks/2023-03-05-JSS-talk)
 
 
 &nbsp;
