@@ -1,6 +1,6 @@
 ---
 title: "Department Statements on Diversity, Equity, Inclusivity (DEI)"
-permalink: DeptStatementsDEI
+permalink: DEI-Dept
 author_profile: false
 ---
 <!-- collection: SelectedPubs -->

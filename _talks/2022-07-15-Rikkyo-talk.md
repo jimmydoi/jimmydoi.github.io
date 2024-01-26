@@ -25,4 +25,4 @@ Rikkyo University
 
 ---
 
-> [Department Statements on DEI](https://jimmydoi.github.io/DeptStatementsDEI)
+> [Department Statements on DEI](https://jimmydoi.github.io/DEI-Dept)
