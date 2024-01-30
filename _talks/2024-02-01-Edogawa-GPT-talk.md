@@ -24,6 +24,6 @@ location: "Chiba, Japan"
 Edogawa University
 </b>
 
-[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"}  
+[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/scl/fi/j7rl8uqattfm1spx5c9ak/2024_Edogawa_Presentation_Materials.zip?rlkey=5daa8b4d1qf7zgnmjvuiqg6j6&dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/scl/fi/j7rl8uqattfm1spx5c9ak/2024_Edogawa_Presentation_Materials.zip?rlkey=5daa8b4d1qf7zgnmjvuiqg6j6&dl=1){:target="_blank" rel="noopener"}  
 
-[Download Presentation Materials Here](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/s/wu0gk8ytie67n7e/2024_Edogawa_Presentation_Materials.zip?dl=1){:target="_blank" rel="noopener"}  
+[Download Presentation Materials Here](https://www.dropbox.com/scl/fi/j7rl8uqattfm1spx5c9ak/2024_Edogawa_Presentation_Materials.zip?rlkey=5daa8b4d1qf7zgnmjvuiqg6j6&dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/scl/fi/j7rl8uqattfm1spx5c9ak/2024_Edogawa_Presentation_Materials.zip?rlkey=5daa8b4d1qf7zgnmjvuiqg6j6&dl=1){:target="_blank" rel="noopener"}  
