@@ -2,10 +2,10 @@
 title: "ChatGPT in Statistics & Data Science Education: Examples from US Universities"
 collection: talks
 type: "(Presented in English)"
-permalink: /talks/2024-02-16-GPT-talk
-venue: "Online Presentation"
+permalink: /talks/2024-02-16-ChatGPT-ENG-talk
+venue: "Video Presentation"
 date: 2024-02-16
-location: "Zoom, "
+location: "Zoom, Online"
 ---
 
 <style>
@@ -21,7 +21,7 @@ location: "Zoom, "
 </style>
 
 <b>
-Edogawa University
+Online Presentation
 </b>
 
 [Download Presentation Materials Here](https://www.dropbox.com/s/ifzk7zbf6324mrp/Doi_2024_GPT.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/s/ifzk7zbf6324mrp/Doi_2024_GPT.zip?dl=1){:target="_blank" rel="noopener"}  
