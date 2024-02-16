@@ -21,7 +21,7 @@ location: "Zoom, Online"
 </style>
 
 <b>
-Online Presentation (in English)
+Online Presentation
 </b>
 
 This is the English translation of the presentations I gave at [University of Tokyo (Jan 2024)](https://jimmydoi.github.io/talks/2024-01-31-UTokyo-GPT-talk){:target="_blank" rel="noopener"} and [Edogawa University (Feb 2024)](https://jimmydoi.github.io/talks/2024-02-01-Edogawa-GPT-talk){:target="_blank" rel="noopener"}.
