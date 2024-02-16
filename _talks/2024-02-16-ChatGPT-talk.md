@@ -2,7 +2,7 @@
 title: "ChatGPT in Statistics & Data Science Education: Examples from US Universities"
 collection: talks
 type: "(Presented in English)"
-permalink: /talks/2024-02-16-GPT-talk
+permalink: /talks/2024-02-16-ChatGPT-talk
 venue: "Online Presentation"
 date: 2024-02-16
 location: ""
