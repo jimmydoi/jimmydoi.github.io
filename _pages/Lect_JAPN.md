@@ -35,18 +35,18 @@ redirect_from:
 
 ---
 
-### シミュレーションに基づく統計的推論
+### シミュレーションに基づく統計的推測
 
 <!-- ############################# -->
-- 対応のない２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のない２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB6.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB6.2.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
-- 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のある２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
-- 1つの比率の推論
+- 1つの比率の推測
   - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/vhafb8k6pgmdu733095u2/Helper_Hinderer_Doi.pdf?rlkey=u7ho79tn3nr2rgh9wkzlcbgma&dl=0){:target="_blank" rel="noopener"}
   - [対応するアプレット](https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm?language=6){:target="_blank" rel="noopener"}
 <!-- ############################# -->
