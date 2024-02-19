@@ -26,3 +26,5 @@ University of Tokyo, Komaba Campus
 [プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/scl/fi/leus6idra89s0bmq2kmhf/2024_UTokyo_Presentation_Materials.zip?rlkey=8oq2vg2s4lzu8yrhwqcau97vf&dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/scl/fi/leus6idra89s0bmq2kmhf/2024_UTokyo_Presentation_Materials.zip?rlkey=8oq2vg2s4lzu8yrhwqcau97vf&dl=1){:target="_blank" rel="noopener"}  
 
 [Download Presentation Materials Here](https://www.dropbox.com/scl/fi/leus6idra89s0bmq2kmhf/2024_UTokyo_Presentation_Materials.zip?rlkey=8oq2vg2s4lzu8yrhwqcau97vf&dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/scl/fi/leus6idra89s0bmq2kmhf/2024_UTokyo_Presentation_Materials.zip?rlkey=8oq2vg2s4lzu8yrhwqcau97vf&dl=1){:target="_blank" rel="noopener"}  
+
+[Presentation Materials (Translated to English)](https://jimmydoi.github.io/talks/2024-02-16-ChatGPT-ENG-talk)
