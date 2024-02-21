@@ -42,6 +42,9 @@ author_profile: false
 
 ## Selected Publications
 
+* Doi, J. (to appear) "Diversity, Equity, Inclusivity (DEI): Initiatives and Resources from the American Statistical Association & US Universities,"
+Estrela (362), xx-xx, 2024-05
+
 * Doi, J., Holladay, B., & Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
   * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
 [[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
