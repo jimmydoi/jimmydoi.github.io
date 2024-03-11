@@ -28,6 +28,9 @@ author_profile: false
   * Minor: Biology, Chemistry, Japanese
 
 ## Work experience
+* 2024 -- Present: Visiting Professor, Edogawa University
+  * Faculty of Media Communication, Department of Information Culture
+
 * 2018 -- Present: Lecturer, Rikkyo University
   * Center for Statistics and Information
 
