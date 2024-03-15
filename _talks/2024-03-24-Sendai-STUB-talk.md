@@ -32,9 +32,6 @@ Science Instructor Workshop</b><br>
 Download Presentation Materials Here
 
 <!-- ############################# -->
-- ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号
-  - [[ウエブサイト]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_pdf/-char/ja){:target="_blank" rel="noopener"}
-  - English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
 
 - 対応のない２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB6.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB6.2.zip){:target="_blank" rel="noopener"}  
@@ -42,3 +39,7 @@ Download Presentation Materials Here
 <!-- ############################# -->
 - 対応のある２標本平均値の差の推論 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
+
+- ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号
+  - [[ウエブサイト]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_pdf/-char/ja){:target="_blank" rel="noopener"}
+  - English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning." Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
