@@ -27,6 +27,8 @@ Science Instructor Workshop</b><br>
 <b>2024年理数系教員統計・データサイエンス 授業力向上研修集会
 </b>
 
+<b>シミュレーションに基づく統計的推測のための教材と授業実践</b>
+
 プレゼンテーション・資料のダウンロードはこちら
 
 Download Presentation Materials Here
