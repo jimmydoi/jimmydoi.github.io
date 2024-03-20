@@ -1,5 +1,5 @@
 ---
-title: "Simulation-based Inference and Active Learning Teaching Resources from the STUB Network"
+title: "Simulation-based Inference: Lecture Materials from the STUB Network"
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-03-24-Sendai-SBI-talk
