@@ -29,9 +29,9 @@ Science Instructor Workshop</b><br>
 
 <b>シミュレーションに基づく統計的推測のための教材と授業実践</b>
 
-プレゼンテーション・資料のダウンロードはこちら
+[プレゼンテーション・資料のダウンロードはこちら](/files/2024_SENDAI_SBI.pdf)
 
-Download Presentation Materials Here
+[Download Presentation Materials Here](/files/2024_SENDAI_SBI.pdf)
 
 <!-- ############################# -->
 
