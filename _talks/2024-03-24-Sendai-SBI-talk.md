@@ -1,5 +1,5 @@
 ---
-title: "Simulation-based Inference: Lecture Materials from the STUB Network"
+title: "Simulation-based Inference: Materials for Japanese Translation of Two New Lectures"
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-03-24-Sendai-SBI-talk
