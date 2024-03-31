@@ -39,12 +39,12 @@ redirect_from:
 
 <!-- ############################# -->
 - 対応のない２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
-  - [ReadMe ファイル] (/files/_README_対応のない 2 標本平均値の差の検定.txt){:target="_blank" rel="noopener"}
+  - [ReadMe ファイル] (/files/_README_対応のない2標本平均値の差の検定.txt){:target="_blank" rel="noopener"}
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB6.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB6.2.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
 - 対応のある２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
-  - [ReadMe ファイル] (/files/_README_対応のある 2 標本平均値の差の検定.txt){:target="_blank" rel="noopener"}
+  - [ReadMe ファイル] (/files/_README_対応のある2標本平均値の差の検定.txt){:target="_blank" rel="noopener"}
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
