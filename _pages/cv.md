@@ -45,13 +45,13 @@ author_profile: false
 
 ## Selected Publications
 
-* Doi, J., Holladay, B., & Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
+* Doi, J., Holladay, B., and Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
   * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
 [[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
 * Doi, J. (2024) 多様性、公平性、包摂性（DEI）：アメリカ統計学会および米国大学からのイニシアティブとガイドライン,
 Estrela (362), 2-7, 2024-05
-  * English Version: Doi, J. (2024) "Diversity, Equity, Inclusivity (DEI): Initiatives and Resources from the American Statistical Association & US Universities,"
+  * English Version: Doi, J. (2024) "Diversity, Equity, Inclusivity (DEI): Initiatives and Resources from the American Statistical Association and US Universities,"
   Estrela (362), 2-7, 2024-05. [[Download]](/files/2024_DEI_ESTRELA_ENG.pdf){:target="_blank" rel="noopener"}
 
 * Doi, J., Watanabe, M., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J. (2024) シミュレーションに基づく統計的推測のための教材と授業実践, (In review)
@@ -69,7 +69,7 @@ Estrela (362), 2-7, 2024-05
 * Devore, J., Farnum, N., and Doi, J. (2014). "Applied Statistics for Engineers and Scientists," 3rd ed. Belmont, CA: Cengage. ISBN-10: 113311136X
   * [[Website]](https://books.google.com/books/about/Applied_Statistics_for_Engineers_and_Sci.html?id=psg_CQAAQBAJ&redir_esc=y){:target="_blank" rel="noopener"}
 
-* Schilling, M. & Doi, J. (2014) "A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure," The American Statistician, 68:3, 133-145
+* Schilling, M. and Doi, J. (2014) "A Coverage Probability Approach to Finding an Optimal Binomial Confidence Procedure," The American Statistician, 68:3, 133-145
   * [[Website]](https://www.tandfonline.com/doi/abs/10.1080/00031305.2014.899274){:target="_blank" rel="noopener"} &nbsp; &nbsp;
   [[Download]](/files/Paper_Binom.pdf){:target="_blank" rel="noopener"}
 
