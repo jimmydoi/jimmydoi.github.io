@@ -45,6 +45,10 @@ author_profile: false
 
 ## Selected Publications
 
+* Doi, J., Holladay, B., & Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
+  * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
+[[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
+
 * Doi, J. (2024) 多様性、公平性、包摂性（DEI）：アメリカ統計学会および米国大学からのイニシアティブとガイドライン,
 Estrela (362), 2-7, 2024-05
   * English Version: Doi, J. (2024) "Diversity, Equity, Inclusivity (DEI): Initiatives and Resources from the American Statistical Association & US Universities,"
@@ -52,10 +56,6 @@ Estrela (362), 2-7, 2024-05
 
 * Doi, J., Watanabe, M., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J. (2024) シミュレーションに基づく統計的推測のための教材と授業実践, (In review)
   * English Version: Doi, J., Watanabe, M., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J. (2024) "Teaching Materials and Classroom Practice for Simulation-Based Statistical Inference,"  (In review) [[Download]](/files/2024_SBI_STUB_ENG.pdf){:target="_blank" rel="noopener"}
-
-* Doi, J., Holladay, B., & Schilling, M. (2024) "Improved Interval Estimation of Negative Binomial Parameters: A Coverage Probability Approach," Journal of Statistical Computation and Simulation, 94:1, 126-141
-  * [[Website]](https://www.tandfonline.com/doi/full/10.1080/00949655.2023.2235046){:target="_blank" rel="noopener"} &nbsp; &nbsp;
-[[Download]](/files/Paper_NegBin.pdf){:target="_blank" rel="noopener"}
 
 * Doi, J. (2019) "Hypothesis Testing via Simulation," Informatio, 16, 97-116.
 
