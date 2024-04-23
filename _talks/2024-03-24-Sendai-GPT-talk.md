@@ -28,6 +28,8 @@ Science Instructor Workshop</b><br>
 
 [ワークショップ・ウエブサイト -- Workshop Website](https://estat.sci.kagoshima-u.ac.jp/SESJSS/WSMS){:target="_blank" rel="noopener"}
 
+<b>データサイエンス教育におけるChatGPT： 米国の大学の例</b>
+
 [プレゼンテーション・資料のダウンロードはこちら](/files/2024_Sendai_ChatGPT.pdf)
 
 [Download Presentation Materials Here](/files/2024_Sendai_ChatGPT.pdf)
