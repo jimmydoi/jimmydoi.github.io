@@ -29,6 +29,8 @@ Science Instructor Workshop</b><br>
 
 <b>シミュレーションに基づく統計的推測のための教材と授業実践</b>
 
+[ワークショップ・ウエブサイト -- Workshop Website](https://estat.sci.kagoshima-u.ac.jp/SESJSS/WSMS){:target="_blank" rel="noopener"})
+
 [プレゼンテーション・資料のダウンロードはこちら](/files/2024_SENDAI_SBI.pdf)
 
 [Download Presentation Materials Here](/files/2024_SENDAI_SBI.pdf)

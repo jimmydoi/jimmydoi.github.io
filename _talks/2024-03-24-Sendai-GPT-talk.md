@@ -26,6 +26,8 @@ Science Instructor Workshop</b><br>
 <b>2024年理数系教員統計・データサイエンス 授業力向上研修集会
 </b>
 
+[ワークショップ・ウエブサイト -- Workshop Website](https://estat.sci.kagoshima-u.ac.jp/SESJSS/WSMS){:target="_blank" rel="noopener"})
+
 [プレゼンテーション・資料のダウンロードはこちら](/files/2024_Sendai_ChatGPT.pdf)
 
 [Download Presentation Materials Here](/files/2024_Sendai_ChatGPT.pdf)
