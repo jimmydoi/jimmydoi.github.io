@@ -20,9 +20,9 @@ location: "Hiroshima, Japan"
   }
 </style>
 
-[プレゼンテーション・スライドのダウンロードはこちら](){:target="_blank" rel="noopener"}
+プレゼンテーション・スライドのダウンロードはこちら
 
-[Download Presentation Slides Here](){:target="_blank" rel="noopener"}
+Download Presentation Slides Here
 
 ---
 
