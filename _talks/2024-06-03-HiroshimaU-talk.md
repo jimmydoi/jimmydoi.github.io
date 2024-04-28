@@ -24,6 +24,8 @@ location: "Hiroshima, Japan"
 
 [Download Presentation Slides Here](){:target="_blank" rel="noopener"}
 
+---
+
 * Doi, J. (2024) 多様性、公平性、包摂性（DEI）：アメリカ統計学会および米国大学からのイニシアティブとガイドライン,
 Estrela (362), 24-29, 2024-05
   * [エストレーラ・ウエブサイト -- Estrela Website](https://www.sinfonica.or.jp/kanko/estrela){:target="_blank" rel="noopener"}
