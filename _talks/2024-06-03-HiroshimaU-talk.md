@@ -3,7 +3,7 @@ title: "私たちが多様性、公平性、包摂性（DEI）をもつために
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-06-03-HiroshimaU-talk
-venue: "Hiroshima University, Graduate School of Humanities and Social Sciences -- Department of Teacher Development"
+venue: "広島大学大学院人間社会科学研究科教職開発専攻: Hiroshima University, Graduate School of Humanities and Social Sciences -- Department of Teacher Development"
 date: 2024-06-03
 location: "Hiroshima, Japan"
 ---
