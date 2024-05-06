@@ -20,6 +20,10 @@ location: "Hiroshima, Japan"
   }
 </style>
 
+**Hiroshima University, Graduate School of Humanities and Social Sciences -- Department of Teacher Development**
+
+**広島大学大学院人間社会科学研究科教職開発専攻**
+
 プレゼンテーション・スライドのダウンロードはこちら
 
 Download Presentation Slides Here
