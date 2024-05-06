@@ -1,9 +1,9 @@
 ---
-title: "多様性、公平性、包摂性（DEI）：アメリカ統計学会および米国大学からのイニシアティブとガイドライン"
+title: "私たちが多様性、公平性、包摂性（DEI）をもつために：アメリカ統計学会および米国大学からのイニシアティブとガイドライン"
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-06-03-HiroshimaU-talk
-venue: "Hiroshima University, Graduate School of Humanities and Social Sciences"
+venue: "Hiroshima University, Graduate School of Humanities and Social Sciences -- Department of Teacher Development"
 date: 2024-06-03
 location: "Hiroshima, Japan"
 ---
@@ -23,6 +23,10 @@ location: "Hiroshima, Japan"
 プレゼンテーション・スライドのダウンロードはこちら
 
 Download Presentation Slides Here
+
+[アイデンティティ円グラフビデオはこちら](https://www.dropbox.com/s/wanl92wieg6og19/IDPieChart.mp4?dl=0){:target="_blank" rel="noopener"}
+
+[Identity Pie Chart Video Here](https://www.dropbox.com/s/wanl92wieg6og19/IDPieChart.mp4?dl=0){:target="_blank" rel="noopener"}
 
 ---
 
