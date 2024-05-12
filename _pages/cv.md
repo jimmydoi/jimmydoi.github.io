@@ -60,7 +60,7 @@ Estrela (362), 24-29, 2024-05
 
 * Doi, J. (2019) "Hypothesis Testing via Simulation," Informatio, 16, 97-116.
 
-* ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号
+* ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第３号, 28-39
   * [[ウエブサイト]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_pdf/-char/ja){:target="_blank" rel="noopener"}
   * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning," Journal of Japan Society of Mathematical Education, 101(3), 28–39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
 
