@@ -26,9 +26,9 @@ location: "Hiroshima, Japan"
 
 ---
 
-プレゼンテーション・スライドのダウンロードはこちら
+[プレゼンテーション・スライドのダウンロードはこちら](https://www.dropbox.com/scl/fi/vmignbe04408kujw4xjt8/2024_Hiroshima_DEI_Doi.pdf?rlkey=jvxu8qij9jz1g9oszfu236qqx&dl=0){:target="_blank" rel="noopener"}
 
-Download Presentation Slides Here
+[Download Presentation Slides Here](https://www.dropbox.com/scl/fi/vmignbe04408kujw4xjt8/2024_Hiroshima_DEI_Doi.pdf?rlkey=jvxu8qij9jz1g9oszfu236qqx&dl=0){:target="_blank" rel="noopener"}
 
 [アイデンティティ円グラフビデオはこちら](https://www.dropbox.com/s/wanl92wieg6og19/IDPieChart.mp4?dl=0){:target="_blank" rel="noopener"}
 
