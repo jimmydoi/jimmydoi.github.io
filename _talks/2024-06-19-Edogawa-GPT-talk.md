@@ -3,7 +3,7 @@ title: "ChatGPT in Statistics & Data Science Education: Examples from US Univers
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-06-19-Edogawa-GPT-talk
-venue: "Edogawa University"
+venue: "Edogawa University: Faculty Development Meeting"
 date: 2024-06-19
 location: "Chiba, Japan"
 ---
