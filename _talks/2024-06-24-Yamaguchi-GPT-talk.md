@@ -1,5 +1,5 @@
 ---
-title: "ChatGPT in Statistics & Data Science Education: Examples from US Universities"
+title: "ChatGPTが拓くデータサイエンス教育の未来～米国の最先端事例から学ぶ～"
 collection: talks
 type: "(Presented in Japanese)"
 permalink: /talks/2024-06-24-Yamaguchi-GPT-talk
