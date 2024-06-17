@@ -146,9 +146,9 @@ As such, the translations may contain some errors.</small>
       <td>
         <ul>
         <li> <strong>Statistical Explorations with Biological Content</strong>
-<!--
           <ul>
           <li> <a href="https://www.causeweb.org/stub/statistical-explorations-with-biological-content" target="_blank">Introductory Level: Outline</a>
+<!--
               <ul>
               <li>  <a href="https://www.dropbox.com/s/nyplqn6ivzys8kz/STUB_INTRO_ENGL.zip?dl=0" target="_blank">
               Zip - English</a></li>
