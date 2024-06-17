@@ -153,7 +153,8 @@ As such, the translations may contain some errors.</small>
               Zip - English</a></li>
               </ul>
           </li>
-          <li><a href="https://jimmydoi.github.io/StatEd/STUB_intro_JAPN">入門レベル: 概要
+          <!-- <li><a href="https://jimmydoi.github.io/StatEd/STUB_intro_JAPN">入門レベル: 概要 -->
+          <li><a href="https://www-causeweb-org.translate.goog/stub/statistical-explorations-with-biological-content/?_x_tr_sl=en&_x_tr_tl=ja&_x_tr_hl=en&_x_tr_pto=wapp">入門レベル: 概要          
           </a>
           <ul>
           <li> <a href="https://www.dropbox.com/scl/fi/fsyjeo445s8xbhfppwjgv/STUB_INTRO_JAPN.zip?rlkey=7vgx3qz2t4z9pvaujp2wzahz5&dl=0" target="_blank">
