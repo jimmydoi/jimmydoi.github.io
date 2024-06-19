@@ -24,6 +24,6 @@ location: "Chiba, Japan"
 Edogawa University: Faculty Development Meeting
 </b>
 
-[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/o1wfe71mmanbmmu/DownloadMaterials.zip?dl=0){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
 
-[Download Presentation Materials Here](){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+[Download Presentation Materials Here](https://www.dropbox.com/s/o1wfe71mmanbmmu/DownloadMaterials.zip?dl=0){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
