@@ -20,6 +20,10 @@ location: "Hiroshima, Japan"
   }
 </style>
 
+<b>
+"Practical Tips on Implementing Diversity, Equity, and Inclusivity (DEI): Initiatives and Guidelines from the American Statistical Association and US Universities"
+</b>
+
 **広島大学大学院人間社会科学研究科教職開発専攻**
 
 **Hiroshima University, Graduate School of Humanities and Social Sciences, Department of Teacher Development**

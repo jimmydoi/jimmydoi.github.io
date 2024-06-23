@@ -21,6 +21,10 @@ location: "Yamaguchi, Japan"
 </style>
 
 <b>
+"The Impact of ChatGPT on Data Science Education: Learning from Examples in the United States"
+</b>
+
+<b>
 Yamaguchi University: Information and Data Science Education Center
 </b>
 
