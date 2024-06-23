@@ -24,6 +24,6 @@ location: "Yamaguchi, Japan"
 Yamaguchi University: Information and Data Science Education Center
 </b>
 
-[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+[プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/sl9ljqotg0722jr/Download_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
 
-[Download Presentation Materials Here](){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+[Download Presentation Materials Here](https://www.dropbox.com/s/sl9ljqotg0722jr/Download_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
