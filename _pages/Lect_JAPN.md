@@ -38,7 +38,7 @@ redirect_from:
 ### シミュレーションに基づく統計的推測
 
 <!-- ############################# -->
-- 対応のない２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のない2標本の平均値の差の検定 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [ReadMe ファイル](/files/README_STUB6.txt)
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB6.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB6.2.zip){:target="_blank" rel="noopener"}  
 
@@ -47,7 +47,7 @@ redirect_from:
 -->
 
 <!-- ############################# -->
-- 対応のある２標本平均値の差の推測 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
+- 対応のある2標本の差の平均値の検定 ([STUBネットワーク](https://www.causeweb.org/stub/){:target="_blank" rel="noopener"})
   - [ReadMe ファイル](/files/README_STUB7.txt)
   - [アーカイブ・ファイル &nbsp; ZIP](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/STUB7.1-7.2.zip){:target="_blank" rel="noopener"}  
 
