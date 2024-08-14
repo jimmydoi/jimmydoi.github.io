@@ -29,7 +29,7 @@ author_profile: false
 
 ## Work experience
 * 2024 -- Present: Visiting Professor, Edogawa University
-  * Faculty of Media Communication, Department of Information Culture
+  * [Institute of Information Education](https://www.edogawa-u.ac.jp/facility/info_research/staff.html){:target="_blank" rel="noopener"}
 
 * 2018 -- Present: Lecturer, Rikkyo University
   * Center for Statistics and Information
