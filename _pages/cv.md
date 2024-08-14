@@ -22,9 +22,9 @@ author_profile: false
 </style>
 
 ## Education
-* Ph.D. in Statistics, North Carolina State University, 2003
-* M.S. in Statistics, North Carolina State University, 1998
-* B.A. in Mathematics (Pure Option), Calif. State Univ. Northridge, 1995
+* Ph.D. in Statistics, [North Carolina State University](https://statistics.sciences.ncsu.edu/){:target="_blank" rel="noopener"}, 2003
+* M.S. in Statistics, [North Carolina State University](https://statistics.sciences.ncsu.edu/){:target="_blank" rel="noopener"}, 1998
+* B.A. in Mathematics (Pure Option), [Calif. State Univ. Northridge](https://www.csun.edu/science-mathematics/mathematics){:target="_blank" rel="noopener"}, 1995
   * Minor: Biology, Chemistry, Japanese
 
 ## Work experience
@@ -32,16 +32,16 @@ author_profile: false
   * [Institute of Information Education](https://www.edogawa-u.ac.jp/facility/info_research/staff.html){:target="_blank" rel="noopener"}
 
 * 2018 -- Present: Lecturer, Rikkyo University
-  * Center for Statistics and Information
+  * [Center for Statistics and Information](https://spirit.rikkyo.ac.jp/csi/about/SitePages/about.aspx?wovn=en){:target="_blank" rel="noopener"}
 
 * 2014 -- Present: Professor, Calif. Polytechnic State University, San Luis Obispo
-  * Statistics Department
+  * [Statistics Department](https://statistics.calpoly.edu/){:target="_blank" rel="noopener"}
 
 * 2009 -- 2014: Associate Professor, Calif. Polytechnic State University, San Luis Obispo
-  * Statistics Department
+  * [Statistics Department](https://statistics.calpoly.edu/){:target="_blank" rel="noopener"}
 
 * 2003 -- 2009: Assistant Professor, Calif. Polytechnic State University, San Luis Obispo
-  * Statistics Department
+  * [Statistics Department](https://statistics.calpoly.edu/){:target="_blank" rel="noopener"}
 
 ## Selected Publications
 
