@@ -19,7 +19,7 @@ author_profile: false
 <hr>
 
 * Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) シミュレーションに基づく統計的推測のための教材と授業実践・日本数学教育学会誌第106巻第7号, 11-24
-  * [国立国会図書館サーチ・ウエブサイト -- National Diet Library Search Website](https://ndlsearch.ndl.go.jp/books/R000000004-I033647162){:target="_blank" rel="noopener"}
+  * [国立国会図書館サーチ・ウエブサイト -- National Kokkai Library Search Website](https://ndlsearch.ndl.go.jp/books/R000000004-I033647162){:target="_blank" rel="noopener"}
   * English Version: Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) "Teaching Materials and Classroom Practice for Simulation-Based Statistical Inference," Journal of Japan Society of Mathematical Education, 106(7), 11–24.
    [[Download]](/files/2024_SBI_STUB_ENG.pdf){:target="_blank" rel="noopener"}
 
