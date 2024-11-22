@@ -28,4 +28,4 @@ For access to the video presentation given in English, please contact me by emai
 
 Corresponding slides (in English) can be downloaded from the link below.
 
-[Download Presentation Materials Here](https://www.dropbox.com/s/ifzk7zbf6324mrp/Doi_2024_GPT.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/s/ifzk7zbf6324mrp/Doi_2024_GPT.zip?dl=1){:target="_blank" rel="noopener"}  
+[Download Presentation Materials Here](https://www.dropbox.com/scl/fi/fxfkqkekm7ygp29xtqvrt/Doi_2024_GPT.zip?rlkey=y0fjj27e6ys6et168jbx2q3sz&dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/scl/fi/fxfkqkekm7ygp29xtqvrt/Doi_2024_GPT.zip?rlkey=y0fjj27e6ys6et168jbx2q3sz&dl=1){:target="_blank" rel="noopener"}  
