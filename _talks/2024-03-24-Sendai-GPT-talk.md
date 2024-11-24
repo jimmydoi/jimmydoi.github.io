@@ -35,3 +35,5 @@ Science Instructor Workshop</b><br>
 [プレゼンテーション・資料のダウンロードはこちら](/files/2024_Sendai_ChatGPT.pdf)
 
 [Download Presentation Materials Here](/files/2024_Sendai_ChatGPT.pdf)
+
+[Presentation Materials (Translated to English)](https://jimmydoi.github.io/talks/2024-02-16-ChatGPT-ENG-talk)

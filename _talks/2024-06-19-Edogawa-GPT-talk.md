@@ -27,3 +27,5 @@ Edogawa University: Faculty Development Meeting
 [プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/2kb6z3xblpg8iei/DownloadMaterials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
 
 [Download Presentation Materials Here](https://www.dropbox.com/s/2kb6z3xblpg8iei/DownloadMaterials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+
+[Presentation Materials (Translated to English)](https://jimmydoi.github.io/talks/2024-02-16-ChatGPT-ENG-talk)

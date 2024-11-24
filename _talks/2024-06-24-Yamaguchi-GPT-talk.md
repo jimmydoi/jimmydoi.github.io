@@ -31,3 +31,5 @@ Yamaguchi University: Information and Data Science Education Center
 [プレゼンテーション・資料のダウンロードはこちら &nbsp; ZIP](https://www.dropbox.com/s/s7owi4cs1ss244o/2024_06_24_Download_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](https://www.dropbox.com/s/s7owi4cs1ss244o/2024_06_24_Download_Materials.zip?dl=1){:target="_blank" rel="noopener"}  
 
 [Download Presentation Materials Here](https://www.dropbox.com/s/s7owi4cs1ss244o/2024_06_24_Download_Materials.zip?dl=1){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](){:target="_blank" rel="noopener"}  
+
+[Presentation Materials (Translated to English)](https://jimmydoi.github.io/talks/2024-02-16-ChatGPT-ENG-talk)
