@@ -24,7 +24,7 @@ location: "Zoom, Online"
 
 This presentation is the English translation of the ChatGPT talks I gave at [University of Tokyo (Jan 2024)](https://jimmydoi.github.io/talks/2024-01-31-UTokyo-GPT-talk){:target="_blank" rel="noopener"} and [Edogawa University (Feb 2024)](https://jimmydoi.github.io/talks/2024-02-01-Edogawa-GPT-talk){:target="_blank" rel="noopener"}.
 
-For access to the video presentation (~50 minutes) given in English, [please click here.](https://www.dropbox.com/scl/fi/xuurcgeb71k4rti4br148/Doi_2024_ChatGPT.mp4?rlkey=5r2dx8gxuf4k45htyozvl0g5o&dl=0){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/video_blue_32.png)](https://www.dropbox.com/scl/fi/xuurcgeb71k4rti4br148/Doi_2024_ChatGPT.mp4?rlkey=5r2dx8gxuf4k45htyozvl0g5o&dl=0){:target="_blank" rel="noopener"}  
+For access to the video presentation (~50 minutes) given in English, [please click here.](https://www.dropbox.com/scl/fi/xuurcgeb71k4rti4br148/Doi_2024_ChatGPT.mp4?rlkey=5r2dx8gxuf4k45htyozvl0g5o&dl=0){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/video_blue_24.png)](https://www.dropbox.com/scl/fi/xuurcgeb71k4rti4br148/Doi_2024_ChatGPT.mp4?rlkey=5r2dx8gxuf4k45htyozvl0g5o&dl=0){:target="_blank" rel="noopener"}  &nbsp; [![alt text](/files/video_blue_32.png)](https://www.dropbox.com/scl/fi/xuurcgeb71k4rti4br148/Doi_2024_ChatGPT.mp4?rlkey=5r2dx8gxuf4k45htyozvl0g5o&dl=0){:target="_blank" rel="noopener"}  
 
 Corresponding slides (in English) can be downloaded from the link below.
 
