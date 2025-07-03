@@ -61,7 +61,7 @@ redirect_from:
   - [アーカイブ・ファイル &nbsp; ZIP](/files/SBI_2prop.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/SBI_2prop.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
-- 1つの比率の推測
+- 1つの比率の検定
   - [授業ノート &nbsp; PDF](https://www.dropbox.com/scl/fi/vhafb8k6pgmdu733095u2/Helper_Hinderer_Doi.pdf?rlkey=u7ho79tn3nr2rgh9wkzlcbgma&dl=0){:target="_blank" rel="noopener"}
   - [対応するアプレット](https://www.rossmanchance.com/applets/2021/oneprop/OneProp.htm?language=6){:target="_blank" rel="noopener"}
 
