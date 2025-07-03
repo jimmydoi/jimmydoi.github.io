@@ -57,7 +57,7 @@ redirect_from:
 
 <!-- ############################# -->
 - 2標本の比率の差の検定
-  - [ReadMe ファイル](/files/README_2prop.txt)
+  - [ReadMe ファイル](/files/README__2prop.txt)
   - [アーカイブ・ファイル &nbsp; ZIP](/files/SBI_2prop.zip){:target="_blank" rel="noopener"} &nbsp; [![alt text](/files/zip_24.png)](/files/SBI_2prop.zip){:target="_blank" rel="noopener"}  
 
 <!-- ############################# -->
