@@ -134,9 +134,9 @@ def launch(
                 plt.scatter(x, y, s=point_size, color=color)
             plt.xlim(-1, 11)
             plt.ylim(-1, 11)
-            plt.xlabel("x (scaled 0–10)")
-            plt.ylabel("y (scaled 0–10)")
-            plt.title(f"Scatter with target r = {r:.1f}")
+            plt.xlabel("x")
+            plt.ylabel("y")
+            plt.title(f"Scatterplot with target r = {r:.1f}")
             if show_grid:
                 plt.grid(True, alpha=0.3)
             plt.show()
@@ -163,4 +163,4 @@ def launch(
 
 if __name__ == "__main__":
     # Allow running the module directly (useful for quick local tests)
-    launch(color="cornflowerblue")
+    launch()
