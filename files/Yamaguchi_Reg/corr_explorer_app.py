@@ -105,7 +105,7 @@ def launch(
     corr_slider = FloatSlider(
         value=float(r_default),
         min=-1.0, max=1.0, step=0.1,
-        description="Correlation (r):",
+        description="Correlation(r)",
         readout_format=".1f",
         continuous_update=True,
     )
