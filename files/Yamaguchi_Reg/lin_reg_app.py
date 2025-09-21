@@ -14,6 +14,7 @@ def launch(seed=None):
 
 import numpy as np
 import matplotlib.pyplot as plt
+from IPython.display import display
 from ipywidgets import Button, BoundedFloatText, ToggleButton, HBox, VBox, Output, Layout
 
 # ---------- Colors ----------
@@ -278,10 +279,9 @@ ui = VBox([controls_row1, controls_row2, out])
 
 apply_toggle_styles()
 draw_plot()
-ui
-    return ui
+display(ui)
 
 # Optional convenience for running the module directly:
-if __name__ == "__main__":
-    from IPython.display import display
-    display(launch())
+#if __name__ == "__main__":
+#    from IPython.display import display
+#    display(launch())
