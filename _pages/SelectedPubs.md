@@ -18,15 +18,15 @@ author_profile: false
 
 <hr>
 
-* Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) シミュレーションに基づく統計的推測のための教材と授業実践・日本数学教育学会誌第106巻第7号, 11-24.  (Published in Japanese)
+* Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) シミュレーションに基づく統計的推測のための教材と授業実践・日本数学教育学会誌第106巻第7号, 11--24.  (Published in Japanese)
   * [国立国会図書館サーチ・ウエブサイト -- National Kokkai Library Search Website](https://ndlsearch.ndl.go.jp/books/R000000004-I033647162){:target="_blank" rel="noopener"}
-  * English Version: Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) "Teaching Materials and Classroom Practice for Simulation-Based Statistical Inference," Journal of Japan Society of Mathematical Education, 106(7), 11–-24.
+  * English Version: Doi, J., Hashimoto, M., Nakajima, Y., Chance, B., McGaughey, K., Roy, S., Tintle, N., Vanderstoep, J., and Watanabe, M. (2024) "Teaching Materials and Classroom Practice for Simulation-Based Statistical Inference," Journal of Japan Society of Mathematical Education, 106(7), 11--24.
    [[Download]](/files/2024_SBI_STUB_ENG.pdf){:target="_blank" rel="noopener"}
 
 
 
 * Doi, J. (2024) 多様性、公平性、包摂性（DEI）：アメリカ統計学会および米国大学からのイニシアティブとガイドライン,
-Estrela (362), 24-29, 2024年5月. (Published in Japanese)
+Estrela (362), 24--29, 2024年5月. (Published in Japanese)
   * [エストレーラ・ウエブサイト -- Estrela Website](https://www.sinfonica.or.jp/kanko/estrela/est202405.html){:target="_blank" rel="noopener"}
   * English Version: Doi, J. (2024) "Diversity, Equity, Inclusivity (DEI): Initiatives and Resources from the American Statistical Association and US Universities,"
   Estrela (362), 24--29, MAY 2024. [[Download]](/files/2024_DEI_ESTRELA_ENG.pdf){:target="_blank" rel="noopener"}
@@ -39,7 +39,7 @@ Estrela (362), 24-29, 2024年5月. (Published in Japanese)
 
 * ドイ・ジミー（2019年）シミュレーションに基づく統計的推論とアクティブ・ラーニングの授業事例・日本数学教育学会誌第101巻第3号, 28--39. (Published in Japanese)
   * [[ウエブサイト]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_article/-char/ja){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[ダウンロード]](https://www.jstage.jst.go.jp/article/jjsme/101/3/101_28/_pdf/-char/ja){:target="_blank" rel="noopener"}
-  * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning," Journal of Japan Society of Mathematical Education, 101(3), 28–-39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
+  * English Version: Doi, J. (2019) "Lecture Examples using Simulation-Based Inference and Active Learning," Journal of Japan Society of Mathematical Education, 101(3), 28--39. [[Download]](/files/Paper_SBI_ActiveLearning_ENGL.pdf){:target="_blank" rel="noopener"}
 
 * Doi, J., Potter, G., Wong, J., Alcaraz, I., and Chi, P. (2016) "Web Application Teaching Tools for Statistics Using R and Shiny," Technology Innovations in Statistics Education, 9(1).
   * [[Website]](https://escholarship.org/uc/item/00d4q8cp){:target="_blank" rel="noopener"} &nbsp; &nbsp; [[Download]](https://escholarship.org/content/qt00d4q8cp/qt00d4q8cp.pdf?t=odeb86){:target="_blank" rel="noopener"}
